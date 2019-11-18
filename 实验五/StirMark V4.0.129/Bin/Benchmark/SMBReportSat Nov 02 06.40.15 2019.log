@@ -1,0 +1,812 @@
+MarkBench - Bench Report - Sat Nov 02 06.40.15 2019
+
+MS name            : Blind linear correlation technique - V demo
+MS release date    : June 2000 - Last update: February 2002
+MS contact address : fabienpe@microsoft.com
+MS source location : http://www.cl.cam.ac.uk/~fapp2/watermarking/evaluation/
+MS family type     : 6
+MS max key size    : 32
+MS max msg size    : 0
+
+
+
+
+
+---------------------------------------------------
+Test_PSNR -- Sat Nov 02 06.40.15 2019
+---------------------------------------------------
+Test_PSNR	0	Images/Set1/Sample	Certainty:	57.1219	1.#INF dB	
+Test_PSNR	10	Images/Set1/Sample	Certainty:	59.5909	39.5343 dB	
+Test_PSNR	20	Images/Set1/Sample	Certainty:	61.2379	35.1196 dB	
+Test_PSNR	30	Images/Set1/Sample	Certainty:	63.7076	32.0289 dB	
+Test_PSNR	40	Images/Set1/Sample	Certainty:	65.3535	29.0792 dB	
+Test_PSNR	50	Images/Set1/Sample	Certainty:	67.8218	27.4021 dB	
+Test_PSNR	60	Images/Set1/Sample	Certainty:	69.4665	25.5723 dB	
+Test_PSNR	70	Images/Set1/Sample	Certainty:	71.9331	23.9908 dB	
+Test_PSNR	80	Images/Set1/Sample	Certainty:	73.5765	23.0663 dB	
+Test_PSNR	90	Images/Set1/Sample	Certainty:	76.0407	21.8534 dB	
+Test_PSNR	100	Images/Set1/Sample	Certainty:	77.6825	21.1355 dB	
+Test_PSNR	0	Images/Set1/Lena	Certainty:	144.626	1.#INF dB	
+Test_PSNR	10	Images/Set1/Lena	Certainty:	147.626	38.1711 dB	
+Test_PSNR	20	Images/Set1/Lena	Certainty:	149.623	33.8085 dB	
+Test_PSNR	30	Images/Set1/Lena	Certainty:	152.612	29.805 dB	
+Test_PSNR	40	Images/Set1/Lena	Certainty:	154.595	27.9464 dB	
+Test_PSNR	50	Images/Set1/Lena	Certainty:	157.543	25.7618 dB	
+Test_PSNR	60	Images/Set1/Lena	Certainty:	159.482	24.5417 dB	
+Test_PSNR	70	Images/Set1/Lena	Certainty:	162.363	23.0302 dB	
+Test_PSNR	80	Images/Set1/Lena	Certainty:	164.255	22.1442 dB	
+Test_PSNR	90	Images/Set1/Lena	Certainty:	167.033	21.0196 dB	
+Test_PSNR	100	Images/Set1/Lena	Certainty:	168.847	20.3707 dB	
+Test_PSNR	0	Images/Set1/Sample	Certainty:	57.1181	1.#INF dB	
+Test_PSNR	10	Images/Set1/Sample	Certainty:	59.5893	39.5345 dB	
+Test_PSNR	20	Images/Set1/Sample	Certainty:	61.2363	35.1197 dB	
+Test_PSNR	30	Images/Set1/Sample	Certainty:	63.7059	32.0291 dB	
+Test_PSNR	40	Images/Set1/Sample	Certainty:	65.3519	29.0793 dB	
+Test_PSNR	50	Images/Set1/Sample	Certainty:	67.8202	27.4022 dB	
+Test_PSNR	60	Images/Set1/Sample	Certainty:	69.4649	25.5724 dB	
+Test_PSNR	70	Images/Set1/Sample	Certainty:	71.9315	23.9909 dB	
+Test_PSNR	80	Images/Set1/Sample	Certainty:	73.5749	23.0663 dB	
+Test_PSNR	90	Images/Set1/Sample	Certainty:	76.0391	21.8535 dB	
+Test_PSNR	100	Images/Set1/Sample	Certainty:	77.6808	21.1356 dB	
+Test_PSNR	0	Images/Set2/skyline_arch	Certainty:	81.3881	1.#INF dB	
+Test_PSNR	10	Images/Set2/skyline_arch	Certainty:	84.1129	39.1179 dB	
+Test_PSNR	20	Images/Set2/skyline_arch	Certainty:	85.8609	34.7936 dB	
+Test_PSNR	30	Images/Set2/skyline_arch	Certainty:	88.4722	30.8762 dB	
+Test_PSNR	40	Images/Set2/skyline_arch	Certainty:	90.2047	28.859 dB	
+Test_PSNR	50	Images/Set2/skyline_arch	Certainty:	92.7904	26.6726 dB	
+Test_PSNR	60	Images/Set2/skyline_arch	Certainty:	94.5057	25.3791 dB	
+Test_PSNR	70	Images/Set2/skyline_arch	Certainty:	97.0653	23.8186 dB	
+Test_PSNR	80	Images/Set2/skyline_arch	Certainty:	98.7631	22.9151 dB	
+Test_PSNR	90	Images/Set2/skyline_arch	Certainty:	101.298	21.7187 dB	
+Test_PSNR	100	Images/Set2/skyline_arch	Certainty:	102.98	21.007 dB	
+Test_PSNR	0	Images/Set3/Sample	Certainty:	57.1197	1.#INF dB	
+Test_PSNR	10	Images/Set3/Sample	Certainty:	59.5932	39.5346 dB	
+Test_PSNR	20	Images/Set3/Sample	Certainty:	61.2401	35.1199 dB	
+Test_PSNR	30	Images/Set3/Sample	Certainty:	63.7097	32.0291 dB	
+Test_PSNR	40	Images/Set3/Sample	Certainty:	65.3556	29.0795 dB	
+Test_PSNR	50	Images/Set3/Sample	Certainty:	67.8238	27.4023 dB	
+Test_PSNR	60	Images/Set3/Sample	Certainty:	69.4685	25.5725 dB	
+Test_PSNR	70	Images/Set3/Sample	Certainty:	71.935	23.9911 dB	
+Test_PSNR	80	Images/Set3/Sample	Certainty:	73.5783	23.0665 dB	
+Test_PSNR	90	Images/Set3/Sample	Certainty:	76.0425	21.8536 dB	
+Test_PSNR	100	Images/Set3/Sample	Certainty:	77.6842	21.1357 dB	
+
+
+---------------------------------------------------
+Test_EmbedTime -- Sat Nov 02 06.40.19 2019
+---------------------------------------------------
+Test_EmbedTime	5	Images/Set1/Sample	Average embedding time (ms)	11.8	27.4023 dB	
+Test_EmbedTime	5	Images/Set1/Sample	Average extraction time (ms)	2.8	27.4023 dB	
+Test_EmbedTime	5	Images/Set1/Lena	Average embedding time (ms)	46.6	25.3727 dB	
+Test_EmbedTime	5	Images/Set1/Lena	Average extraction time (ms)	10	25.3727 dB	
+Test_EmbedTime	5	Images/Set1/Sample	Average embedding time (ms)	12.2	27.4023 dB	
+Test_EmbedTime	5	Images/Set1/Sample	Average extraction time (ms)	3	27.4023 dB	
+Test_EmbedTime	5	Images/Set2/skyline_arch	Average embedding time (ms)	38.4	26.6725 dB	
+Test_EmbedTime	5	Images/Set2/skyline_arch	Average extraction time (ms)	9.4	26.6725 dB	
+Test_EmbedTime	5	Images/Set3/Sample	Average embedding time (ms)	11.8	27.402 dB	
+Test_EmbedTime	5	Images/Set3/Sample	Average extraction time (ms)	2.8	27.402 dB	
+
+
+---------------------------------------------------
+Test_AddNoise -- Sat Nov 02 06.40.20 2019
+---------------------------------------------------
+Test_AddNoise	0	Images/Set1/Sample	Certainty	67.8219	1.#INF dB	
+Test_AddNoise	20	Images/Set1/Sample	Certainty	44.192	12.2846 dB	
+Test_AddNoise	40	Images/Set1/Sample	Certainty	45.51	9.61145 dB	
+Test_AddNoise	60	Images/Set1/Sample	Certainty	51.4678	8.52034 dB	
+Test_AddNoise	80	Images/Set1/Sample	Certainty	54.5266	7.9511 dB	
+Test_AddNoise	100	Images/Set1/Sample	Certainty	56.2874	7.70346 dB	
+Test_AddNoise	0	Images/Set1/Lena	Certainty	157.544	1.#INF dB	
+Test_AddNoise	20	Images/Set1/Lena	Certainty	84.0676	9.06169 dB	
+Test_AddNoise	40	Images/Set1/Lena	Certainty	73.1312	7.61105 dB	
+Test_AddNoise	60	Images/Set1/Lena	Certainty	69.7875	7.18132 dB	
+Test_AddNoise	80	Images/Set1/Lena	Certainty	68.5809	6.97986 dB	
+Test_AddNoise	100	Images/Set1/Lena	Certainty	67.4511	6.86208 dB	
+Test_AddNoise	0	Images/Set1/Sample	Certainty	67.8219	1.#INF dB	
+Test_AddNoise	20	Images/Set1/Sample	Certainty	44.192	12.2846 dB	
+Test_AddNoise	40	Images/Set1/Sample	Certainty	45.51	9.61145 dB	
+Test_AddNoise	60	Images/Set1/Sample	Certainty	51.4678	8.52034 dB	
+Test_AddNoise	80	Images/Set1/Sample	Certainty	54.5266	7.9511 dB	
+Test_AddNoise	100	Images/Set1/Sample	Certainty	56.2874	7.70346 dB	
+Test_AddNoise	0	Images/Set2/skyline_arch	Certainty	92.7909	1.#INF dB	
+Test_AddNoise	20	Images/Set2/skyline_arch	Certainty	55.0145	11.3188 dB	
+Test_AddNoise	40	Images/Set2/skyline_arch	Certainty	53.4139	9.3848 dB	
+Test_AddNoise	60	Images/Set2/skyline_arch	Certainty	56.4855	8.61571 dB	
+Test_AddNoise	80	Images/Set2/skyline_arch	Certainty	58.2658	8.2297 dB	
+Test_AddNoise	100	Images/Set2/skyline_arch	Certainty	59.2355	8.03352 dB	
+Test_AddNoise	0	Images/Set3/Sample	Certainty	67.8224	1.#INF dB	
+Test_AddNoise	20	Images/Set3/Sample	Certainty	44.1836	12.2392 dB	
+Test_AddNoise	40	Images/Set3/Sample	Certainty	45.7677	9.66613 dB	
+Test_AddNoise	60	Images/Set3/Sample	Certainty	51.3631	8.53182 dB	
+Test_AddNoise	80	Images/Set3/Sample	Certainty	54.1248	7.98047 dB	
+Test_AddNoise	100	Images/Set3/Sample	Certainty	56.228	7.69719 dB	
+
+
+---------------------------------------------------
+Test_JPEG -- Sat Nov 02 06.40.21 2019
+---------------------------------------------------
+Test_JPEG	15	Images/Set1/Sample	Certainty	67.0813	22.9602 dB	
+Test_JPEG	20	Images/Set1/Sample	Certainty	66.7577	23.5782 dB	
+Test_JPEG	25	Images/Set1/Sample	Certainty	66.9501	23.9327 dB	
+Test_JPEG	30	Images/Set1/Sample	Certainty	67.9864	23.7777 dB	
+Test_JPEG	35	Images/Set1/Sample	Certainty	67.6144	24.8006 dB	
+Test_JPEG	40	Images/Set1/Sample	Certainty	67.4267	25.2666 dB	
+Test_JPEG	50	Images/Set1/Sample	Certainty	67.5751	25.9772 dB	
+Test_JPEG	60	Images/Set1/Sample	Certainty	67.5063	27.611 dB	
+Test_JPEG	70	Images/Set1/Sample	Certainty	67.1195	30.1942 dB	
+Test_JPEG	80	Images/Set1/Sample	Certainty	67.4477	32.6314 dB	
+Test_JPEG	90	Images/Set1/Sample	Certainty	67.7253	36.4324 dB	
+Test_JPEG	100	Images/Set1/Sample	Certainty	67.8654	41.0108 dB	
+Test_JPEG	15	Images/Set1/Lena	Certainty	157.477	33.7985 dB	
+Test_JPEG	20	Images/Set1/Lena	Certainty	157.456	35.0563 dB	
+Test_JPEG	25	Images/Set1/Lena	Certainty	157.466	35.9962 dB	
+Test_JPEG	30	Images/Set1/Lena	Certainty	157.53	36.755 dB	
+Test_JPEG	35	Images/Set1/Lena	Certainty	157.419	37.3978 dB	
+Test_JPEG	40	Images/Set1/Lena	Certainty	157.502	37.896 dB	
+Test_JPEG	50	Images/Set1/Lena	Certainty	157.466	38.6913 dB	
+Test_JPEG	60	Images/Set1/Lena	Certainty	157.512	39.425 dB	
+Test_JPEG	70	Images/Set1/Lena	Certainty	157.49	40.4449 dB	
+Test_JPEG	80	Images/Set1/Lena	Certainty	157.498	41.8201 dB	
+Test_JPEG	90	Images/Set1/Lena	Certainty	157.51	44.0945 dB	
+Test_JPEG	100	Images/Set1/Lena	Certainty	157.519	49.9865 dB	
+Test_JPEG	15	Images/Set1/Sample	Certainty	67.0806	22.9602 dB	
+Test_JPEG	20	Images/Set1/Sample	Certainty	66.7576	23.5782 dB	
+Test_JPEG	25	Images/Set1/Sample	Certainty	66.9494	23.9339 dB	
+Test_JPEG	30	Images/Set1/Sample	Certainty	67.9859	23.7778 dB	
+Test_JPEG	35	Images/Set1/Sample	Certainty	67.6184	24.8006 dB	
+Test_JPEG	40	Images/Set1/Sample	Certainty	67.4259	25.2667 dB	
+Test_JPEG	50	Images/Set1/Sample	Certainty	67.5752	25.9775 dB	
+Test_JPEG	60	Images/Set1/Sample	Certainty	67.5055	27.6114 dB	
+Test_JPEG	70	Images/Set1/Sample	Certainty	67.1203	30.1947 dB	
+Test_JPEG	80	Images/Set1/Sample	Certainty	67.4494	32.6319 dB	
+Test_JPEG	90	Images/Set1/Sample	Certainty	67.7245	36.4316 dB	
+Test_JPEG	100	Images/Set1/Sample	Certainty	67.8649	41.0104 dB	
+Test_JPEG	15	Images/Set2/skyline_arch	Certainty	92.7819	31.6769 dB	
+Test_JPEG	20	Images/Set2/skyline_arch	Certainty	92.6596	32.744 dB	
+Test_JPEG	25	Images/Set2/skyline_arch	Certainty	92.6071	33.5368 dB	
+Test_JPEG	30	Images/Set2/skyline_arch	Certainty	92.661	34.154 dB	
+Test_JPEG	35	Images/Set2/skyline_arch	Certainty	92.632	34.6846 dB	
+Test_JPEG	40	Images/Set2/skyline_arch	Certainty	92.6325	35.0912 dB	
+Test_JPEG	50	Images/Set2/skyline_arch	Certainty	92.5907	35.8151 dB	
+Test_JPEG	60	Images/Set2/skyline_arch	Certainty	92.6278	36.5363 dB	
+Test_JPEG	70	Images/Set2/skyline_arch	Certainty	92.5816	37.5516 dB	
+Test_JPEG	80	Images/Set2/skyline_arch	Certainty	92.5916	38.9455 dB	
+Test_JPEG	90	Images/Set2/skyline_arch	Certainty	92.5903	41.6708 dB	
+Test_JPEG	100	Images/Set2/skyline_arch	Certainty	92.6352	48.8776 dB	
+Test_JPEG	15	Images/Set3/Sample	Certainty	67.0767	22.9604 dB	
+Test_JPEG	20	Images/Set3/Sample	Certainty	66.7534	23.5785 dB	
+Test_JPEG	25	Images/Set3/Sample	Certainty	66.9454	23.9337 dB	
+Test_JPEG	30	Images/Set3/Sample	Certainty	67.9818	23.7776 dB	
+Test_JPEG	35	Images/Set3/Sample	Certainty	67.6096	24.8004 dB	
+Test_JPEG	40	Images/Set3/Sample	Certainty	67.4216	25.2678 dB	
+Test_JPEG	50	Images/Set3/Sample	Certainty	67.571	25.9762 dB	
+Test_JPEG	60	Images/Set3/Sample	Certainty	67.5007	27.6106 dB	
+Test_JPEG	70	Images/Set3/Sample	Certainty	67.1151	30.1944 dB	
+Test_JPEG	80	Images/Set3/Sample	Certainty	67.445	32.6313 dB	
+Test_JPEG	90	Images/Set3/Sample	Certainty	67.7201	36.4309 dB	
+Test_JPEG	100	Images/Set3/Sample	Certainty	67.8604	41.0108 dB	
+
+
+---------------------------------------------------
+Test_MedianCut -- Sat Nov 02 06.40.23 2019
+---------------------------------------------------
+Test_MedianCut	3	Images/Set1/Sample	Certainty	48.4494	9.28001 dB	
+Test_MedianCut	5	Images/Set1/Sample	Certainty	33.0679	8.86712 dB	
+Test_MedianCut	7	Images/Set1/Sample	Certainty	32.3938	8.77464 dB	
+Test_MedianCut	9	Images/Set1/Sample	Certainty	31.4524	8.72068 dB	
+Test_MedianCut	3	Images/Set1/Lena	Certainty	158.883	36.8778 dB	
+Test_MedianCut	5	Images/Set1/Lena	Certainty	158.186	33.8016 dB	
+Test_MedianCut	7	Images/Set1/Lena	Certainty	157.846	31.001 dB	
+Test_MedianCut	9	Images/Set1/Lena	Certainty	157.696	29.2355 dB	
+Test_MedianCut	3	Images/Set1/Sample	Certainty	48.4487	9.28 dB	
+Test_MedianCut	5	Images/Set1/Sample	Certainty	33.068	8.86711 dB	
+Test_MedianCut	7	Images/Set1/Sample	Certainty	32.394	8.77463 dB	
+Test_MedianCut	9	Images/Set1/Sample	Certainty	31.4525	8.72068 dB	
+Test_MedianCut	3	Images/Set2/skyline_arch	Certainty	94.2431	33.1125 dB	
+Test_MedianCut	5	Images/Set2/skyline_arch	Certainty	93.5158	29.8473 dB	
+Test_MedianCut	7	Images/Set2/skyline_arch	Certainty	93.3184	27.2534 dB	
+Test_MedianCut	9	Images/Set2/skyline_arch	Certainty	93.2222	25.5966 dB	
+Test_MedianCut	3	Images/Set3/Sample	Certainty	48.4541	9.28003 dB	
+Test_MedianCut	5	Images/Set3/Sample	Certainty	33.0713	8.86712 dB	
+Test_MedianCut	7	Images/Set3/Sample	Certainty	32.3972	8.77464 dB	
+Test_MedianCut	9	Images/Set3/Sample	Certainty	31.4559	8.72068 dB	
+
+
+---------------------------------------------------
+Test_ConvFilter -- Sat Nov 02 06.40.39 2019
+---------------------------------------------------
+Test_ConvFilter	1	Images/Set1/Sample	Certainty	109.327	11.4534 dB	
+Test_ConvFilter	2	Images/Set1/Sample	Certainty	14.75	1.28349 dB	
+Test_ConvFilter	1	Images/Set1/Lena	Certainty	224.453	11.6844 dB	
+Test_ConvFilter	2	Images/Set1/Lena	Certainty	17.6326	-7.33256 dB	
+Test_ConvFilter	1	Images/Set1/Lena	Certainty	224.453	11.6844 dB	
+Test_ConvFilter	2	Images/Set1/Lena	Certainty	17.6326	-7.33256 dB	
+Test_ConvFilter	1	Images/Set1/Sample	Certainty	109.332	11.4534 dB	
+Test_ConvFilter	2	Images/Set1/Sample	Certainty	14.7492	1.28347 dB	
+Test_ConvFilter	1	Images/Set1/Sample	Certainty	109.332	11.4534 dB	
+Test_ConvFilter	2	Images/Set1/Sample	Certainty	14.7492	1.28347 dB	
+Test_ConvFilter	1	Images/Set1/Sample	Certainty	109.332	11.4534 dB	
+Test_ConvFilter	2	Images/Set1/Sample	Certainty	14.7492	1.28347 dB	
+Test_ConvFilter	1	Images/Set2/skyline_arch	Certainty	120.705	16.3893 dB	
+Test_ConvFilter	2	Images/Set2/skyline_arch	Certainty	10.3038	-5.59144 dB	
+Test_ConvFilter	1	Images/Set2/skyline_arch	Certainty	120.705	16.3893 dB	
+Test_ConvFilter	2	Images/Set2/skyline_arch	Certainty	10.3038	-5.59144 dB	
+Test_ConvFilter	1	Images/Set2/skyline_arch	Certainty	120.705	16.3893 dB	
+Test_ConvFilter	2	Images/Set2/skyline_arch	Certainty	10.3038	-5.59144 dB	
+Test_ConvFilter	1	Images/Set2/skyline_arch	Certainty	120.705	16.3893 dB	
+Test_ConvFilter	2	Images/Set2/skyline_arch	Certainty	10.3038	-5.59144 dB	
+Test_ConvFilter	1	Images/Set3/Sample	Certainty	109.326	11.4534 dB	
+Test_ConvFilter	2	Images/Set3/Sample	Certainty	14.7484	1.2835 dB	
+Test_ConvFilter	1	Images/Set3/Sample	Certainty	109.326	11.4534 dB	
+Test_ConvFilter	2	Images/Set3/Sample	Certainty	14.7484	1.2835 dB	
+Test_ConvFilter	1	Images/Set3/Sample	Certainty	109.326	11.4534 dB	
+Test_ConvFilter	2	Images/Set3/Sample	Certainty	14.7484	1.2835 dB	
+Test_ConvFilter	1	Images/Set3/Sample	Certainty	109.326	11.4534 dB	
+Test_ConvFilter	2	Images/Set3/Sample	Certainty	14.7484	1.2835 dB	
+Test_ConvFilter	1	Images/Set3/Sample	Certainty	109.326	11.4534 dB	
+Test_ConvFilter	2	Images/Set3/Sample	Certainty	14.7484	1.2835 dB	
+
+
+---------------------------------------------------
+Test_SelfSimilarities -- Sat Nov 02 06.40.42 2019
+---------------------------------------------------
+Test_SelfSimilarities	1	Images/Set1/Sample	Certainty	68.6086	16.1343 dB	
+Test_SelfSimilarities	2	Images/Set1/Sample	Certainty	67.7523	34.9306 dB	
+Test_SelfSimilarities	3	Images/Set1/Sample	Certainty	67.6908	17.1956 dB	
+Test_SelfSimilarities	1	Images/Set1/Lena	Certainty	157.16	41.3736 dB	
+Test_SelfSimilarities	2	Images/Set1/Lena	Certainty	157.383	51.5902 dB	
+Test_SelfSimilarities	3	Images/Set1/Lena	Certainty	157.223	35.5711 dB	
+Test_SelfSimilarities	1	Images/Set1/Lena	Certainty	157.16	41.3736 dB	
+Test_SelfSimilarities	2	Images/Set1/Lena	Certainty	157.383	51.5902 dB	
+Test_SelfSimilarities	3	Images/Set1/Lena	Certainty	157.223	35.5711 dB	
+Test_SelfSimilarities	1	Images/Set1/Sample	Certainty	68.6054	16.1343 dB	
+Test_SelfSimilarities	2	Images/Set1/Sample	Certainty	67.7496	34.8571 dB	
+Test_SelfSimilarities	3	Images/Set1/Sample	Certainty	67.691	17.141 dB	
+Test_SelfSimilarities	1	Images/Set1/Sample	Certainty	68.6054	16.1343 dB	
+Test_SelfSimilarities	2	Images/Set1/Sample	Certainty	67.7496	34.8571 dB	
+Test_SelfSimilarities	3	Images/Set1/Sample	Certainty	67.691	17.141 dB	
+Test_SelfSimilarities	1	Images/Set1/Sample	Certainty	68.6054	16.1343 dB	
+Test_SelfSimilarities	2	Images/Set1/Sample	Certainty	67.7496	34.8571 dB	
+Test_SelfSimilarities	3	Images/Set1/Sample	Certainty	67.691	17.141 dB	
+Test_SelfSimilarities	1	Images/Set2/skyline_arch	Certainty	92.8363	31.4014 dB	
+Test_SelfSimilarities	2	Images/Set2/skyline_arch	Certainty	92.7651	51.1251 dB	
+Test_SelfSimilarities	3	Images/Set2/skyline_arch	Certainty	92.4256	31.9019 dB	
+Test_SelfSimilarities	1	Images/Set2/skyline_arch	Certainty	92.8363	31.4014 dB	
+Test_SelfSimilarities	2	Images/Set2/skyline_arch	Certainty	92.7651	51.1251 dB	
+Test_SelfSimilarities	3	Images/Set2/skyline_arch	Certainty	92.4256	31.9019 dB	
+Test_SelfSimilarities	1	Images/Set2/skyline_arch	Certainty	92.8363	31.4014 dB	
+Test_SelfSimilarities	2	Images/Set2/skyline_arch	Certainty	92.7651	51.1251 dB	
+Test_SelfSimilarities	3	Images/Set2/skyline_arch	Certainty	92.4256	31.9019 dB	
+Test_SelfSimilarities	1	Images/Set2/skyline_arch	Certainty	92.8363	31.4014 dB	
+Test_SelfSimilarities	2	Images/Set2/skyline_arch	Certainty	92.7651	51.1251 dB	
+Test_SelfSimilarities	3	Images/Set2/skyline_arch	Certainty	92.4256	31.9019 dB	
+Test_SelfSimilarities	1	Images/Set3/Sample	Certainty	68.592	16.1422 dB	
+Test_SelfSimilarities	2	Images/Set3/Sample	Certainty	67.7488	35.0134 dB	
+Test_SelfSimilarities	3	Images/Set3/Sample	Certainty	67.6851	17.176 dB	
+Test_SelfSimilarities	1	Images/Set3/Sample	Certainty	68.592	16.1422 dB	
+Test_SelfSimilarities	2	Images/Set3/Sample	Certainty	67.7488	35.0134 dB	
+Test_SelfSimilarities	3	Images/Set3/Sample	Certainty	67.6851	17.176 dB	
+Test_SelfSimilarities	1	Images/Set3/Sample	Certainty	68.592	16.1422 dB	
+Test_SelfSimilarities	2	Images/Set3/Sample	Certainty	67.7488	35.0134 dB	
+Test_SelfSimilarities	3	Images/Set3/Sample	Certainty	67.6851	17.176 dB	
+Test_SelfSimilarities	1	Images/Set3/Sample	Certainty	68.592	16.1422 dB	
+Test_SelfSimilarities	2	Images/Set3/Sample	Certainty	67.7488	35.0134 dB	
+Test_SelfSimilarities	3	Images/Set3/Sample	Certainty	67.6851	17.176 dB	
+Test_SelfSimilarities	1	Images/Set3/Sample	Certainty	68.592	16.1422 dB	
+Test_SelfSimilarities	2	Images/Set3/Sample	Certainty	67.7488	35.0134 dB	
+Test_SelfSimilarities	3	Images/Set3/Sample	Certainty	67.6851	17.176 dB	
+
+
+---------------------------------------------------
+Test_RemoveLines -- Sat Nov 02 06.42.24 2019
+---------------------------------------------------
+Test_RemoveLines	10	Images/Set1/Sample	Certainty	52.2689	NA	
+Test_RemoveLines	20	Images/Set1/Sample	Certainty	60.4726	NA	
+Test_RemoveLines	30	Images/Set1/Sample	Certainty	62.907	NA	
+Test_RemoveLines	40	Images/Set1/Sample	Certainty	64.2145	NA	
+Test_RemoveLines	50	Images/Set1/Sample	Certainty	65.3076	NA	
+Test_RemoveLines	60	Images/Set1/Sample	Certainty	65.7869	NA	
+Test_RemoveLines	70	Images/Set1/Sample	Certainty	65.4686	NA	
+Test_RemoveLines	80	Images/Set1/Sample	Certainty	65.9154	NA	
+Test_RemoveLines	90	Images/Set1/Sample	Certainty	66.1419	NA	
+Test_RemoveLines	100	Images/Set1/Sample	Certainty	66.4815	NA	
+Test_RemoveLines	10	Images/Set1/Lena	Certainty	157.577	NA	
+Test_RemoveLines	20	Images/Set1/Lena	Certainty	157.546	NA	
+Test_RemoveLines	30	Images/Set1/Lena	Certainty	157.589	NA	
+Test_RemoveLines	40	Images/Set1/Lena	Certainty	157.541	NA	
+Test_RemoveLines	50	Images/Set1/Lena	Certainty	157.546	NA	
+Test_RemoveLines	60	Images/Set1/Lena	Certainty	157.573	NA	
+Test_RemoveLines	70	Images/Set1/Lena	Certainty	157.634	NA	
+Test_RemoveLines	80	Images/Set1/Lena	Certainty	157.579	NA	
+Test_RemoveLines	90	Images/Set1/Lena	Certainty	157.597	NA	
+Test_RemoveLines	100	Images/Set1/Lena	Certainty	157.621	NA	
+Test_RemoveLines	10	Images/Set1/Sample	Certainty	52.2724	NA	
+Test_RemoveLines	20	Images/Set1/Sample	Certainty	60.474	NA	
+Test_RemoveLines	30	Images/Set1/Sample	Certainty	62.9153	NA	
+Test_RemoveLines	40	Images/Set1/Sample	Certainty	64.216	NA	
+Test_RemoveLines	50	Images/Set1/Sample	Certainty	65.3112	NA	
+Test_RemoveLines	60	Images/Set1/Sample	Certainty	65.7883	NA	
+Test_RemoveLines	70	Images/Set1/Sample	Certainty	65.47	NA	
+Test_RemoveLines	80	Images/Set1/Sample	Certainty	65.9191	NA	
+Test_RemoveLines	90	Images/Set1/Sample	Certainty	66.1482	NA	
+Test_RemoveLines	100	Images/Set1/Sample	Certainty	66.487	NA	
+Test_RemoveLines	10	Images/Set2/skyline_arch	Certainty	92.7949	NA	
+Test_RemoveLines	20	Images/Set2/skyline_arch	Certainty	92.7924	NA	
+Test_RemoveLines	30	Images/Set2/skyline_arch	Certainty	92.7127	NA	
+Test_RemoveLines	40	Images/Set2/skyline_arch	Certainty	92.759	NA	
+Test_RemoveLines	50	Images/Set2/skyline_arch	Certainty	92.8623	NA	
+Test_RemoveLines	60	Images/Set2/skyline_arch	Certainty	92.803	NA	
+Test_RemoveLines	70	Images/Set2/skyline_arch	Certainty	92.7456	NA	
+Test_RemoveLines	80	Images/Set2/skyline_arch	Certainty	92.8739	NA	
+Test_RemoveLines	90	Images/Set2/skyline_arch	Certainty	92.7308	NA	
+Test_RemoveLines	100	Images/Set2/skyline_arch	Certainty	92.7252	NA	
+Test_RemoveLines	10	Images/Set3/Sample	Certainty	52.2724	NA	
+Test_RemoveLines	20	Images/Set3/Sample	Certainty	60.474	NA	
+Test_RemoveLines	30	Images/Set3/Sample	Certainty	62.9153	NA	
+Test_RemoveLines	40	Images/Set3/Sample	Certainty	64.216	NA	
+Test_RemoveLines	50	Images/Set3/Sample	Certainty	65.3112	NA	
+Test_RemoveLines	60	Images/Set3/Sample	Certainty	65.7883	NA	
+Test_RemoveLines	70	Images/Set3/Sample	Certainty	65.47	NA	
+Test_RemoveLines	80	Images/Set3/Sample	Certainty	65.9191	NA	
+Test_RemoveLines	90	Images/Set3/Sample	Certainty	66.1482	NA	
+Test_RemoveLines	100	Images/Set3/Sample	Certainty	66.487	NA	
+
+
+---------------------------------------------------
+Test_Cropping -- Sat Nov 02 06.42.25 2019
+---------------------------------------------------
+Test_Cropping	1	Images/Set1/Sample	Certainty	93.6667	NA	
+Test_Cropping	2	Images/Set1/Sample	Certainty	53.3333	NA	
+Test_Cropping	5	Images/Set1/Sample	Certainty	66.7778	NA	
+Test_Cropping	10	Images/Set1/Sample	Certainty	55.3538	NA	
+Test_Cropping	15	Images/Set1/Sample	Certainty	63.615	NA	
+Test_Cropping	20	Images/Set1/Sample	Certainty	59.8038	NA	
+Test_Cropping	25	Images/Set1/Sample	Certainty	57.317	NA	
+Test_Cropping	50	Images/Set1/Sample	Certainty	80.2787	NA	
+Test_Cropping	75	Images/Set1/Sample	Certainty	77.0834	NA	
+Test_Cropping	1	Images/Set1/Lena	Certainty	132.987	NA	
+Test_Cropping	2	Images/Set1/Lena	Certainty	144.417	NA	
+Test_Cropping	5	Images/Set1/Lena	Certainty	152.258	NA	
+Test_Cropping	10	Images/Set1/Lena	Certainty	170.42	NA	
+Test_Cropping	15	Images/Set1/Lena	Certainty	168.636	NA	
+Test_Cropping	20	Images/Set1/Lena	Certainty	165.083	NA	
+Test_Cropping	25	Images/Set1/Lena	Certainty	163.974	NA	
+Test_Cropping	50	Images/Set1/Lena	Certainty	158.62	NA	
+Test_Cropping	75	Images/Set1/Lena	Certainty	156.251	NA	
+Test_Cropping	1	Images/Set1/Sample	Certainty	93.6667	NA	
+Test_Cropping	2	Images/Set1/Sample	Certainty	53.3333	NA	
+Test_Cropping	5	Images/Set1/Sample	Certainty	66.7778	NA	
+Test_Cropping	10	Images/Set1/Sample	Certainty	55.3538	NA	
+Test_Cropping	15	Images/Set1/Sample	Certainty	63.615	NA	
+Test_Cropping	20	Images/Set1/Sample	Certainty	59.8038	NA	
+Test_Cropping	25	Images/Set1/Sample	Certainty	57.317	NA	
+Test_Cropping	50	Images/Set1/Sample	Certainty	80.2787	NA	
+Test_Cropping	75	Images/Set1/Sample	Certainty	77.0834	NA	
+Test_Cropping	1	Images/Set2/skyline_arch	Certainty	129.517	NA	
+Test_Cropping	2	Images/Set2/skyline_arch	Certainty	127.424	NA	
+Test_Cropping	5	Images/Set2/skyline_arch	Certainty	131.664	NA	
+Test_Cropping	10	Images/Set2/skyline_arch	Certainty	137.186	NA	
+Test_Cropping	15	Images/Set2/skyline_arch	Certainty	143.269	NA	
+Test_Cropping	20	Images/Set2/skyline_arch	Certainty	147.106	NA	
+Test_Cropping	25	Images/Set2/skyline_arch	Certainty	146.75	NA	
+Test_Cropping	50	Images/Set2/skyline_arch	Certainty	134.695	NA	
+Test_Cropping	75	Images/Set2/skyline_arch	Certainty	108.707	NA	
+Test_Cropping	1	Images/Set3/Sample	Certainty	93.6667	NA	
+Test_Cropping	2	Images/Set3/Sample	Certainty	53.3333	NA	
+Test_Cropping	5	Images/Set3/Sample	Certainty	66.7778	NA	
+Test_Cropping	10	Images/Set3/Sample	Certainty	55.3538	NA	
+Test_Cropping	15	Images/Set3/Sample	Certainty	63.615	NA	
+Test_Cropping	20	Images/Set3/Sample	Certainty	59.8038	NA	
+Test_Cropping	25	Images/Set3/Sample	Certainty	57.317	NA	
+Test_Cropping	50	Images/Set3/Sample	Certainty	80.2787	NA	
+Test_Cropping	75	Images/Set3/Sample	Certainty	77.0834	NA	
+
+
+---------------------------------------------------
+Test_Rescale -- Sat Nov 02 06.42.25 2019
+---------------------------------------------------
+Test_Rescale	50	Images/Set1/Sample	Certainty	67.8609	NA	
+Test_Rescale	75	Images/Set1/Sample	Certainty	67.976	NA	
+Test_Rescale	90	Images/Set1/Sample	Certainty	68.6817	NA	
+Test_Rescale	110	Images/Set1/Sample	Certainty	67.8517	NA	
+Test_Rescale	150	Images/Set1/Sample	Certainty	67.7172	NA	
+Test_Rescale	200	Images/Set1/Sample	Certainty	67.9762	NA	
+Test_Rescale	50	Images/Set1/Lena	Certainty	157.672	NA	
+Test_Rescale	75	Images/Set1/Lena	Certainty	157.643	NA	
+Test_Rescale	90	Images/Set1/Lena	Certainty	157.545	NA	
+Test_Rescale	110	Images/Set1/Lena	Certainty	157.557	NA	
+Test_Rescale	150	Images/Set1/Lena	Certainty	157.506	NA	
+Test_Rescale	200	Images/Set1/Lena	Certainty	157.515	NA	
+Test_Rescale	50	Images/Set1/Sample	Certainty	67.8554	NA	
+Test_Rescale	75	Images/Set1/Sample	Certainty	67.9657	NA	
+Test_Rescale	90	Images/Set1/Sample	Certainty	68.6835	NA	
+Test_Rescale	110	Images/Set1/Sample	Certainty	67.8442	NA	
+Test_Rescale	150	Images/Set1/Sample	Certainty	67.7125	NA	
+Test_Rescale	200	Images/Set1/Sample	Certainty	67.9764	NA	
+Test_Rescale	50	Images/Set2/skyline_arch	Certainty	92.8539	NA	
+Test_Rescale	75	Images/Set2/skyline_arch	Certainty	92.9248	NA	
+Test_Rescale	90	Images/Set2/skyline_arch	Certainty	92.8617	NA	
+Test_Rescale	110	Images/Set2/skyline_arch	Certainty	92.9978	NA	
+Test_Rescale	150	Images/Set2/skyline_arch	Certainty	92.9837	NA	
+Test_Rescale	200	Images/Set2/skyline_arch	Certainty	92.9171	NA	
+Test_Rescale	50	Images/Set3/Sample	Certainty	67.8559	NA	
+Test_Rescale	75	Images/Set3/Sample	Certainty	67.9774	NA	
+Test_Rescale	90	Images/Set3/Sample	Certainty	68.6826	NA	
+Test_Rescale	110	Images/Set3/Sample	Certainty	67.8471	NA	
+Test_Rescale	150	Images/Set3/Sample	Certainty	67.7176	NA	
+Test_Rescale	200	Images/Set3/Sample	Certainty	67.9773	NA	
+
+
+---------------------------------------------------
+Test_Rotation -- Sat Nov 02 06.42.30 2019
+---------------------------------------------------
+Test_Rotation	-2	Images/Set1/Sample	Certainty	63.6057	NA	
+Test_Rotation	-1	Images/Set1/Sample	Certainty	65.7068	NA	
+Test_Rotation	-0.75	Images/Set1/Sample	Certainty	66.4225	NA	
+Test_Rotation	-0.5	Images/Set1/Sample	Certainty	66.9059	NA	
+Test_Rotation	-0.25	Images/Set1/Sample	Certainty	67.4223	NA	
+Test_Rotation	0.25	Images/Set1/Sample	Certainty	67.4194	NA	
+Test_Rotation	0.5	Images/Set1/Sample	Certainty	66.9036	NA	
+Test_Rotation	0.75	Images/Set1/Sample	Certainty	66.412	NA	
+Test_Rotation	1	Images/Set1/Sample	Certainty	65.7183	NA	
+Test_Rotation	2	Images/Set1/Sample	Certainty	63.6121	NA	
+Test_Rotation	5	Images/Set1/Sample	Certainty	57.8898	NA	
+Test_Rotation	10	Images/Set1/Sample	Certainty	50.5758	NA	
+Test_Rotation	15	Images/Set1/Sample	Certainty	45.2541	NA	
+Test_Rotation	30	Images/Set1/Sample	Certainty	36.2497	NA	
+Test_Rotation	45	Images/Set1/Sample	Certainty	33.8238	NA	
+Test_Rotation	90	Images/Set1/Sample	Certainty	67.5021	NA	
+Test_Rotation	-2	Images/Set1/Lena	Certainty	147.592	NA	
+Test_Rotation	-1	Images/Set1/Lena	Certainty	152.73	NA	
+Test_Rotation	-0.75	Images/Set1/Lena	Certainty	153.919	NA	
+Test_Rotation	-0.5	Images/Set1/Lena	Certainty	155.12	NA	
+Test_Rotation	-0.25	Images/Set1/Lena	Certainty	156.335	NA	
+Test_Rotation	0.25	Images/Set1/Lena	Certainty	156.333	NA	
+Test_Rotation	0.5	Images/Set1/Lena	Certainty	155.116	NA	
+Test_Rotation	0.75	Images/Set1/Lena	Certainty	153.912	NA	
+Test_Rotation	1	Images/Set1/Lena	Certainty	152.723	NA	
+Test_Rotation	2	Images/Set1/Lena	Certainty	147.587	NA	
+Test_Rotation	5	Images/Set1/Lena	Certainty	134.575	NA	
+Test_Rotation	10	Images/Set1/Lena	Certainty	117.851	NA	
+Test_Rotation	15	Images/Set1/Lena	Certainty	105.398	NA	
+Test_Rotation	30	Images/Set1/Lena	Certainty	84.5357	NA	
+Test_Rotation	45	Images/Set1/Lena	Certainty	79.0278	NA	
+Test_Rotation	90	Images/Set1/Lena	Certainty	157.22	12.1913 dB	
+Test_Rotation	-2	Images/Set1/Sample	Certainty	63.6068	NA	
+Test_Rotation	-1	Images/Set1/Sample	Certainty	65.7096	NA	
+Test_Rotation	-0.75	Images/Set1/Sample	Certainty	66.4231	NA	
+Test_Rotation	-0.5	Images/Set1/Sample	Certainty	66.9083	NA	
+Test_Rotation	-0.25	Images/Set1/Sample	Certainty	67.4195	NA	
+Test_Rotation	0.25	Images/Set1/Sample	Certainty	67.4169	NA	
+Test_Rotation	0.5	Images/Set1/Sample	Certainty	66.9032	NA	
+Test_Rotation	0.75	Images/Set1/Sample	Certainty	66.4132	NA	
+Test_Rotation	1	Images/Set1/Sample	Certainty	65.7157	NA	
+Test_Rotation	2	Images/Set1/Sample	Certainty	63.6056	NA	
+Test_Rotation	5	Images/Set1/Sample	Certainty	57.8869	NA	
+Test_Rotation	10	Images/Set1/Sample	Certainty	50.5729	NA	
+Test_Rotation	15	Images/Set1/Sample	Certainty	45.2542	NA	
+Test_Rotation	30	Images/Set1/Sample	Certainty	36.2494	NA	
+Test_Rotation	45	Images/Set1/Sample	Certainty	33.8217	NA	
+Test_Rotation	90	Images/Set1/Sample	Certainty	67.5084	NA	
+Test_Rotation	-2	Images/Set2/skyline_arch	Certainty	86.4719	NA	
+Test_Rotation	-1	Images/Set2/skyline_arch	Certainty	89.6137	NA	
+Test_Rotation	-0.75	Images/Set2/skyline_arch	Certainty	90.4248	NA	
+Test_Rotation	-0.5	Images/Set2/skyline_arch	Certainty	91.1769	NA	
+Test_Rotation	-0.25	Images/Set2/skyline_arch	Certainty	92.1594	NA	
+Test_Rotation	0.25	Images/Set2/skyline_arch	Certainty	92.1559	NA	
+Test_Rotation	0.5	Images/Set2/skyline_arch	Certainty	91.1755	NA	
+Test_Rotation	0.75	Images/Set2/skyline_arch	Certainty	90.4253	NA	
+Test_Rotation	1	Images/Set2/skyline_arch	Certainty	89.6156	NA	
+Test_Rotation	2	Images/Set2/skyline_arch	Certainty	86.4713	NA	
+Test_Rotation	5	Images/Set2/skyline_arch	Certainty	78.2575	NA	
+Test_Rotation	10	Images/Set2/skyline_arch	Certainty	67.959	NA	
+Test_Rotation	15	Images/Set2/skyline_arch	Certainty	60.4159	NA	
+Test_Rotation	30	Images/Set2/skyline_arch	Certainty	48.0202	NA	
+Test_Rotation	45	Images/Set2/skyline_arch	Certainty	44.7369	NA	
+Test_Rotation	90	Images/Set2/skyline_arch	Certainty	92.7605	NA	
+Test_Rotation	-2	Images/Set3/Sample	Certainty	63.6141	NA	
+Test_Rotation	-1	Images/Set3/Sample	Certainty	65.7157	NA	
+Test_Rotation	-0.75	Images/Set3/Sample	Certainty	66.4231	NA	
+Test_Rotation	-0.5	Images/Set3/Sample	Certainty	66.9065	NA	
+Test_Rotation	-0.25	Images/Set3/Sample	Certainty	67.425	NA	
+Test_Rotation	0.25	Images/Set3/Sample	Certainty	67.42	NA	
+Test_Rotation	0.5	Images/Set3/Sample	Certainty	66.9064	NA	
+Test_Rotation	0.75	Images/Set3/Sample	Certainty	66.4148	NA	
+Test_Rotation	1	Images/Set3/Sample	Certainty	65.7229	NA	
+Test_Rotation	2	Images/Set3/Sample	Certainty	63.6122	NA	
+Test_Rotation	5	Images/Set3/Sample	Certainty	57.8887	NA	
+Test_Rotation	10	Images/Set3/Sample	Certainty	50.5752	NA	
+Test_Rotation	15	Images/Set3/Sample	Certainty	45.2558	NA	
+Test_Rotation	30	Images/Set3/Sample	Certainty	36.2517	NA	
+Test_Rotation	45	Images/Set3/Sample	Certainty	33.8233	NA	
+Test_Rotation	90	Images/Set3/Sample	Certainty	67.5084	NA	
+
+
+---------------------------------------------------
+Test_RotationCrop -- Sat Nov 02 06.42.40 2019
+---------------------------------------------------
+Test_RotationCrop	-2	Images/Set1/Sample	Certainty	69.4069	NA	
+Test_RotationCrop	-1	Images/Set1/Sample	Certainty	68.3632	NA	
+Test_RotationCrop	-0.75	Images/Set1/Sample	Certainty	67.9712	NA	
+Test_RotationCrop	-0.5	Images/Set1/Sample	Certainty	67.8107	NA	
+Test_RotationCrop	-0.25	Images/Set1/Sample	Certainty	67.6522	NA	
+Test_RotationCrop	0.25	Images/Set1/Sample	Certainty	67.6567	NA	
+Test_RotationCrop	0.5	Images/Set1/Sample	Certainty	67.8106	NA	
+Test_RotationCrop	0.75	Images/Set1/Sample	Certainty	67.9631	NA	
+Test_RotationCrop	1	Images/Set1/Sample	Certainty	68.3649	NA	
+Test_RotationCrop	2	Images/Set1/Sample	Certainty	69.4048	NA	
+Test_RotationCrop	-2	Images/Set1/Lena	Certainty	157.949	NA	
+Test_RotationCrop	-1	Images/Set1/Lena	Certainty	157.785	NA	
+Test_RotationCrop	-0.75	Images/Set1/Lena	Certainty	157.725	NA	
+Test_RotationCrop	-0.5	Images/Set1/Lena	Certainty	157.665	NA	
+Test_RotationCrop	-0.25	Images/Set1/Lena	Certainty	157.606	NA	
+Test_RotationCrop	0.25	Images/Set1/Lena	Certainty	157.555	NA	
+Test_RotationCrop	0.5	Images/Set1/Lena	Certainty	157.56	NA	
+Test_RotationCrop	0.75	Images/Set1/Lena	Certainty	157.568	NA	
+Test_RotationCrop	1	Images/Set1/Lena	Certainty	157.579	NA	
+Test_RotationCrop	2	Images/Set1/Lena	Certainty	157.665	NA	
+Test_RotationCrop	-2	Images/Set1/Sample	Certainty	69.4106	NA	
+Test_RotationCrop	-1	Images/Set1/Sample	Certainty	68.3672	NA	
+Test_RotationCrop	-0.75	Images/Set1/Sample	Certainty	67.9741	NA	
+Test_RotationCrop	-0.5	Images/Set1/Sample	Certainty	67.8186	NA	
+Test_RotationCrop	-0.25	Images/Set1/Sample	Certainty	67.6563	NA	
+Test_RotationCrop	0.25	Images/Set1/Sample	Certainty	67.6597	NA	
+Test_RotationCrop	0.5	Images/Set1/Sample	Certainty	67.8166	NA	
+Test_RotationCrop	0.75	Images/Set1/Sample	Certainty	67.9713	NA	
+Test_RotationCrop	1	Images/Set1/Sample	Certainty	68.3702	NA	
+Test_RotationCrop	2	Images/Set1/Sample	Certainty	69.4095	NA	
+Test_RotationCrop	-2	Images/Set2/skyline_arch	Certainty	95.263	NA	
+Test_RotationCrop	-1	Images/Set2/skyline_arch	Certainty	94.2734	NA	
+Test_RotationCrop	-0.75	Images/Set2/skyline_arch	Certainty	94.0971	NA	
+Test_RotationCrop	-0.5	Images/Set2/skyline_arch	Certainty	93.8108	NA	
+Test_RotationCrop	-0.25	Images/Set2/skyline_arch	Certainty	93.3571	NA	
+Test_RotationCrop	0.25	Images/Set2/skyline_arch	Certainty	93.2036	NA	
+Test_RotationCrop	0.5	Images/Set2/skyline_arch	Certainty	93.829	NA	
+Test_RotationCrop	0.75	Images/Set2/skyline_arch	Certainty	94.1976	NA	
+Test_RotationCrop	1	Images/Set2/skyline_arch	Certainty	94.4385	NA	
+Test_RotationCrop	2	Images/Set2/skyline_arch	Certainty	95.6767	NA	
+Test_RotationCrop	-2	Images/Set3/Sample	Certainty	69.4131	NA	
+Test_RotationCrop	-1	Images/Set3/Sample	Certainty	68.3672	NA	
+Test_RotationCrop	-0.75	Images/Set3/Sample	Certainty	67.9754	NA	
+Test_RotationCrop	-0.5	Images/Set3/Sample	Certainty	67.8145	NA	
+Test_RotationCrop	-0.25	Images/Set3/Sample	Certainty	67.6566	NA	
+Test_RotationCrop	0.25	Images/Set3/Sample	Certainty	67.6614	NA	
+Test_RotationCrop	0.5	Images/Set3/Sample	Certainty	67.8162	NA	
+Test_RotationCrop	0.75	Images/Set3/Sample	Certainty	67.9697	NA	
+Test_RotationCrop	1	Images/Set3/Sample	Certainty	68.3712	NA	
+Test_RotationCrop	2	Images/Set3/Sample	Certainty	69.4108	NA	
+
+
+---------------------------------------------------
+Test_RotationScale -- Sat Nov 02 06.42.45 2019
+---------------------------------------------------
+Test_RotationScale	-2	Images/Set1/Sample	Certainty	69.5921	6.97348 dB	
+Test_RotationScale	-1	Images/Set1/Sample	Certainty	68.3936	7.5656 dB	
+Test_RotationScale	-0.75	Images/Set1/Sample	Certainty	68.0912	7.96449 dB	
+Test_RotationScale	-0.5	Images/Set1/Sample	Certainty	67.8184	8.78825 dB	
+Test_RotationScale	-0.25	Images/Set1/Sample	Certainty	67.6542	11.7309 dB	
+Test_RotationScale	0.25	Images/Set1/Sample	Certainty	67.6483	11.7051 dB	
+Test_RotationScale	0.5	Images/Set1/Sample	Certainty	67.8184	8.72194 dB	
+Test_RotationScale	0.75	Images/Set1/Sample	Certainty	68.0949	7.9125 dB	
+Test_RotationScale	1	Images/Set1/Sample	Certainty	68.4	7.54751 dB	
+Test_RotationScale	2	Images/Set1/Sample	Certainty	69.5948	7.02628 dB	
+Test_RotationScale	-2	Images/Set1/Lena	Certainty	157.964	18.0351 dB	
+Test_RotationScale	-1	Images/Set1/Lena	Certainty	157.81	20.8513 dB	
+Test_RotationScale	-0.75	Images/Set1/Lena	Certainty	157.746	22.3077 dB	
+Test_RotationScale	-0.5	Images/Set1/Lena	Certainty	157.68	24.6514 dB	
+Test_RotationScale	-0.25	Images/Set1/Lena	Certainty	157.619	29.3887 dB	
+Test_RotationScale	0.25	Images/Set1/Lena	Certainty	157.567	31.3603 dB	
+Test_RotationScale	0.5	Images/Set1/Lena	Certainty	157.575	26.4971 dB	
+Test_RotationScale	0.75	Images/Set1/Lena	Certainty	157.588	23.9589 dB	
+Test_RotationScale	1	Images/Set1/Lena	Certainty	157.605	22.3351 dB	
+Test_RotationScale	2	Images/Set1/Lena	Certainty	157.695	19.1355 dB	
+Test_RotationScale	-2	Images/Set1/Sample	Certainty	69.5891	6.9734 dB	
+Test_RotationScale	-1	Images/Set1/Sample	Certainty	68.3942	7.56561 dB	
+Test_RotationScale	-0.75	Images/Set1/Sample	Certainty	68.09	7.96448 dB	
+Test_RotationScale	-0.5	Images/Set1/Sample	Certainty	67.8167	8.78825 dB	
+Test_RotationScale	-0.25	Images/Set1/Sample	Certainty	67.6538	11.7309 dB	
+Test_RotationScale	0.25	Images/Set1/Sample	Certainty	67.6483	11.705 dB	
+Test_RotationScale	0.5	Images/Set1/Sample	Certainty	67.8143	8.72181 dB	
+Test_RotationScale	0.75	Images/Set1/Sample	Certainty	68.0921	7.91241 dB	
+Test_RotationScale	1	Images/Set1/Sample	Certainty	68.3937	7.54741 dB	
+Test_RotationScale	2	Images/Set1/Sample	Certainty	69.5884	7.0262 dB	
+Test_RotationScale	-2	Images/Set2/skyline_arch	Certainty	95.3505	17.7583 dB	
+Test_RotationScale	-1	Images/Set2/skyline_arch	Certainty	94.3567	19.9225 dB	
+Test_RotationScale	-0.75	Images/Set2/skyline_arch	Certainty	94.1092	20.7936 dB	
+Test_RotationScale	-0.5	Images/Set2/skyline_arch	Certainty	93.8561	22.0528 dB	
+Test_RotationScale	-0.25	Images/Set2/skyline_arch	Certainty	93.4661	25.2186 dB	
+Test_RotationScale	0.25	Images/Set2/skyline_arch	Certainty	93.3212	26.4675 dB	
+Test_RotationScale	0.5	Images/Set2/skyline_arch	Certainty	93.8063	22.5603 dB	
+Test_RotationScale	0.75	Images/Set2/skyline_arch	Certainty	94.1935	20.8638 dB	
+Test_RotationScale	1	Images/Set2/skyline_arch	Certainty	94.5193	19.8546 dB	
+Test_RotationScale	2	Images/Set2/skyline_arch	Certainty	95.7628	17.6601 dB	
+Test_RotationScale	-2	Images/Set3/Sample	Certainty	69.583	6.97337 dB	
+Test_RotationScale	-1	Images/Set3/Sample	Certainty	68.3893	7.5656 dB	
+Test_RotationScale	-0.75	Images/Set3/Sample	Certainty	68.0867	7.96447 dB	
+Test_RotationScale	-0.5	Images/Set3/Sample	Certainty	67.8145	8.78822 dB	
+Test_RotationScale	-0.25	Images/Set3/Sample	Certainty	67.6521	11.7308 dB	
+Test_RotationScale	0.25	Images/Set3/Sample	Certainty	67.6449	11.705 dB	
+Test_RotationScale	0.5	Images/Set3/Sample	Certainty	67.8122	8.72182 dB	
+Test_RotationScale	0.75	Images/Set3/Sample	Certainty	68.0895	7.91239 dB	
+Test_RotationScale	1	Images/Set3/Sample	Certainty	68.395	7.54741 dB	
+Test_RotationScale	2	Images/Set3/Sample	Certainty	69.5894	7.02619 dB	
+
+
+---------------------------------------------------
+Test_Affine -- Sat Nov 02 06.42.50 2019
+---------------------------------------------------
+Test_Affine	1	Images/Set1/Sample	Certainty	67.3774	NA	
+Test_Affine	2	Images/Set1/Sample	Certainty	65.2293	NA	
+Test_Affine	3	Images/Set1/Sample	Certainty	67.2523	NA	
+Test_Affine	4	Images/Set1/Sample	Certainty	64.2404	NA	
+Test_Affine	5	Images/Set1/Sample	Certainty	66.8538	NA	
+Test_Affine	6	Images/Set1/Sample	Certainty	66.6053	NA	
+Test_Affine	7	Images/Set1/Sample	Certainty	66.764	NA	
+Test_Affine	8	Images/Set1/Sample	Certainty	66.8568	NA	
+Test_Affine	1	Images/Set1/Lena	Certainty	156.028	NA	
+Test_Affine	2	Images/Set1/Lena	Certainty	150.216	NA	
+Test_Affine	3	Images/Set1/Lena	Certainty	156.027	NA	
+Test_Affine	4	Images/Set1/Lena	Certainty	150.216	NA	
+Test_Affine	5	Images/Set1/Lena	Certainty	154.514	NA	
+Test_Affine	6	Images/Set1/Lena	Certainty	154.461	NA	
+Test_Affine	7	Images/Set1/Lena	Certainty	154.748	NA	
+Test_Affine	8	Images/Set1/Lena	Certainty	155.038	NA	
+Test_Affine	1	Images/Set1/Lena	Certainty	156.028	NA	
+Test_Affine	2	Images/Set1/Lena	Certainty	150.216	NA	
+Test_Affine	3	Images/Set1/Lena	Certainty	156.027	NA	
+Test_Affine	4	Images/Set1/Lena	Certainty	150.216	NA	
+Test_Affine	5	Images/Set1/Lena	Certainty	154.514	NA	
+Test_Affine	6	Images/Set1/Lena	Certainty	154.461	NA	
+Test_Affine	7	Images/Set1/Lena	Certainty	154.748	NA	
+Test_Affine	8	Images/Set1/Lena	Certainty	155.038	NA	
+Test_Affine	1	Images/Set1/Sample	Certainty	67.3767	NA	
+Test_Affine	2	Images/Set1/Sample	Certainty	65.2267	NA	
+Test_Affine	3	Images/Set1/Sample	Certainty	67.2489	NA	
+Test_Affine	4	Images/Set1/Sample	Certainty	64.2399	NA	
+Test_Affine	5	Images/Set1/Sample	Certainty	66.8503	NA	
+Test_Affine	6	Images/Set1/Sample	Certainty	66.6035	NA	
+Test_Affine	7	Images/Set1/Sample	Certainty	66.7623	NA	
+Test_Affine	8	Images/Set1/Sample	Certainty	66.8525	NA	
+Test_Affine	1	Images/Set1/Sample	Certainty	67.3767	NA	
+Test_Affine	2	Images/Set1/Sample	Certainty	65.2267	NA	
+Test_Affine	3	Images/Set1/Sample	Certainty	67.2489	NA	
+Test_Affine	4	Images/Set1/Sample	Certainty	64.2399	NA	
+Test_Affine	5	Images/Set1/Sample	Certainty	66.8503	NA	
+Test_Affine	6	Images/Set1/Sample	Certainty	66.6035	NA	
+Test_Affine	7	Images/Set1/Sample	Certainty	66.7623	NA	
+Test_Affine	8	Images/Set1/Sample	Certainty	66.8525	NA	
+Test_Affine	1	Images/Set1/Sample	Certainty	67.3767	NA	
+Test_Affine	2	Images/Set1/Sample	Certainty	65.2267	NA	
+Test_Affine	3	Images/Set1/Sample	Certainty	67.2489	NA	
+Test_Affine	4	Images/Set1/Sample	Certainty	64.2399	NA	
+Test_Affine	5	Images/Set1/Sample	Certainty	66.8503	NA	
+Test_Affine	6	Images/Set1/Sample	Certainty	66.6035	NA	
+Test_Affine	7	Images/Set1/Sample	Certainty	66.7623	NA	
+Test_Affine	8	Images/Set1/Sample	Certainty	66.8525	NA	
+Test_Affine	1	Images/Set2/skyline_arch	Certainty	92.3132	NA	
+Test_Affine	2	Images/Set2/skyline_arch	Certainty	89.905	NA	
+Test_Affine	3	Images/Set2/skyline_arch	Certainty	91.6307	NA	
+Test_Affine	4	Images/Set2/skyline_arch	Certainty	86.5093	NA	
+Test_Affine	5	Images/Set2/skyline_arch	Certainty	91.1576	NA	
+Test_Affine	6	Images/Set2/skyline_arch	Certainty	90.6629	NA	
+Test_Affine	7	Images/Set2/skyline_arch	Certainty	90.9992	NA	
+Test_Affine	8	Images/Set2/skyline_arch	Certainty	91.2604	NA	
+Test_Affine	1	Images/Set2/skyline_arch	Certainty	92.3132	NA	
+Test_Affine	2	Images/Set2/skyline_arch	Certainty	89.905	NA	
+Test_Affine	3	Images/Set2/skyline_arch	Certainty	91.6307	NA	
+Test_Affine	4	Images/Set2/skyline_arch	Certainty	86.5093	NA	
+Test_Affine	5	Images/Set2/skyline_arch	Certainty	91.1576	NA	
+Test_Affine	6	Images/Set2/skyline_arch	Certainty	90.6629	NA	
+Test_Affine	7	Images/Set2/skyline_arch	Certainty	90.9992	NA	
+Test_Affine	8	Images/Set2/skyline_arch	Certainty	91.2604	NA	
+Test_Affine	1	Images/Set2/skyline_arch	Certainty	92.3132	NA	
+Test_Affine	2	Images/Set2/skyline_arch	Certainty	89.905	NA	
+Test_Affine	3	Images/Set2/skyline_arch	Certainty	91.6307	NA	
+Test_Affine	4	Images/Set2/skyline_arch	Certainty	86.5093	NA	
+Test_Affine	5	Images/Set2/skyline_arch	Certainty	91.1576	NA	
+Test_Affine	6	Images/Set2/skyline_arch	Certainty	90.6629	NA	
+Test_Affine	7	Images/Set2/skyline_arch	Certainty	90.9992	NA	
+Test_Affine	8	Images/Set2/skyline_arch	Certainty	91.2604	NA	
+Test_Affine	1	Images/Set2/skyline_arch	Certainty	92.3132	NA	
+Test_Affine	2	Images/Set2/skyline_arch	Certainty	89.905	NA	
+Test_Affine	3	Images/Set2/skyline_arch	Certainty	91.6307	NA	
+Test_Affine	4	Images/Set2/skyline_arch	Certainty	86.5093	NA	
+Test_Affine	5	Images/Set2/skyline_arch	Certainty	91.1576	NA	
+Test_Affine	6	Images/Set2/skyline_arch	Certainty	90.6629	NA	
+Test_Affine	7	Images/Set2/skyline_arch	Certainty	90.9992	NA	
+Test_Affine	8	Images/Set2/skyline_arch	Certainty	91.2604	NA	
+Test_Affine	1	Images/Set3/Sample	Certainty	67.3724	NA	
+Test_Affine	2	Images/Set3/Sample	Certainty	65.2263	NA	
+Test_Affine	3	Images/Set3/Sample	Certainty	67.2459	NA	
+Test_Affine	4	Images/Set3/Sample	Certainty	64.2421	NA	
+Test_Affine	5	Images/Set3/Sample	Certainty	66.8482	NA	
+Test_Affine	6	Images/Set3/Sample	Certainty	66.6031	NA	
+Test_Affine	7	Images/Set3/Sample	Certainty	66.7615	NA	
+Test_Affine	8	Images/Set3/Sample	Certainty	66.8536	NA	
+Test_Affine	1	Images/Set3/Sample	Certainty	67.3724	NA	
+Test_Affine	2	Images/Set3/Sample	Certainty	65.2263	NA	
+Test_Affine	3	Images/Set3/Sample	Certainty	67.2459	NA	
+Test_Affine	4	Images/Set3/Sample	Certainty	64.2421	NA	
+Test_Affine	5	Images/Set3/Sample	Certainty	66.8482	NA	
+Test_Affine	6	Images/Set3/Sample	Certainty	66.6031	NA	
+Test_Affine	7	Images/Set3/Sample	Certainty	66.7615	NA	
+Test_Affine	8	Images/Set3/Sample	Certainty	66.8536	NA	
+Test_Affine	1	Images/Set3/Sample	Certainty	67.3724	NA	
+Test_Affine	2	Images/Set3/Sample	Certainty	65.2263	NA	
+Test_Affine	3	Images/Set3/Sample	Certainty	67.2459	NA	
+Test_Affine	4	Images/Set3/Sample	Certainty	64.2421	NA	
+Test_Affine	5	Images/Set3/Sample	Certainty	66.8482	NA	
+Test_Affine	6	Images/Set3/Sample	Certainty	66.6031	NA	
+Test_Affine	7	Images/Set3/Sample	Certainty	66.7615	NA	
+Test_Affine	8	Images/Set3/Sample	Certainty	66.8536	NA	
+Test_Affine	1	Images/Set3/Sample	Certainty	67.3724	NA	
+Test_Affine	2	Images/Set3/Sample	Certainty	65.2263	NA	
+Test_Affine	3	Images/Set3/Sample	Certainty	67.2459	NA	
+Test_Affine	4	Images/Set3/Sample	Certainty	64.2421	NA	
+Test_Affine	5	Images/Set3/Sample	Certainty	66.8482	NA	
+Test_Affine	6	Images/Set3/Sample	Certainty	66.6031	NA	
+Test_Affine	7	Images/Set3/Sample	Certainty	66.7615	NA	
+Test_Affine	8	Images/Set3/Sample	Certainty	66.8536	NA	
+Test_Affine	1	Images/Set3/Sample	Certainty	67.3724	NA	
+Test_Affine	2	Images/Set3/Sample	Certainty	65.2263	NA	
+Test_Affine	3	Images/Set3/Sample	Certainty	67.2459	NA	
+Test_Affine	4	Images/Set3/Sample	Certainty	64.2421	NA	
+Test_Affine	5	Images/Set3/Sample	Certainty	66.8482	NA	
+Test_Affine	6	Images/Set3/Sample	Certainty	66.6031	NA	
+Test_Affine	7	Images/Set3/Sample	Certainty	66.7615	NA	
+Test_Affine	8	Images/Set3/Sample	Certainty	66.8536	NA	
+
+
+---------------------------------------------------
+Test_SmallRandomDistortions -- Sat Nov 02 06.43.02 2019
+---------------------------------------------------
+Test_SmallRandomDistortions	0.95	Images/Set1/Sample	Certainty	65.6185	7.03049 dB	
+Test_SmallRandomDistortions	1	Images/Set1/Sample	Certainty	65.5959	6.95638 dB	
+Test_SmallRandomDistortions	1.05	Images/Set1/Sample	Certainty	65.5852	6.91777 dB	
+Test_SmallRandomDistortions	1.1	Images/Set1/Sample	Certainty	65.5704	6.92961 dB	
+Test_SmallRandomDistortions	0.95	Images/Set1/Lena	Certainty	146.853	14.0221 dB	
+Test_SmallRandomDistortions	1	Images/Set1/Lena	Certainty	146.408	13.9356 dB	
+Test_SmallRandomDistortions	1.05	Images/Set1/Lena	Certainty	145.969	13.7207 dB	
+Test_SmallRandomDistortions	1.1	Images/Set1/Lena	Certainty	145.523	13.5468 dB	
+Test_SmallRandomDistortions	0.95	Images/Set1/Sample	Certainty	62.25	6.63207 dB	
+Test_SmallRandomDistortions	1	Images/Set1/Sample	Certainty	61.9435	6.6254 dB	
+Test_SmallRandomDistortions	1.05	Images/Set1/Sample	Certainty	61.6464	6.606 dB	
+Test_SmallRandomDistortions	1.1	Images/Set1/Sample	Certainty	61.3676	6.59872 dB	
+Test_SmallRandomDistortions	0.95	Images/Set2/skyline_arch	Certainty	79.1944	8.12704 dB	
+Test_SmallRandomDistortions	1	Images/Set2/skyline_arch	Certainty	78.1253	7.80827 dB	
+Test_SmallRandomDistortions	1.05	Images/Set2/skyline_arch	Certainty	74.5752	7.59161 dB	
+Test_SmallRandomDistortions	1.1	Images/Set2/skyline_arch	Certainty	70.6476	7.43155 dB	
+Test_SmallRandomDistortions	0.95	Images/Set3/Sample	Certainty	10.7075	6.89954 dB	
+Test_SmallRandomDistortions	1	Images/Set3/Sample	Certainty	10.4007	6.89789 dB	
+Test_SmallRandomDistortions	1.05	Images/Set3/Sample	Certainty	9.93225	6.90837 dB	
+Test_SmallRandomDistortions	1.1	Images/Set3/Sample	Certainty	9.44187	6.91574 dB	
+
+
+---------------------------------------------------
+Test_LatestSmallRandomDistortions -- Sat Nov 02 06.43.08 2019
+---------------------------------------------------
+Test_LatestSmallRandomDistortions	0.95	Images/Set1/Sample	Certainty	64.4486	6.58965 dB	
+Test_LatestSmallRandomDistortions	1	Images/Set1/Sample	Certainty	64.3654	6.55879 dB	
+Test_LatestSmallRandomDistortions	1.05	Images/Set1/Sample	Certainty	64.2917	6.56705 dB	
+Test_LatestSmallRandomDistortions	1.1	Images/Set1/Sample	Certainty	64.2053	6.61847 dB	
+Test_LatestSmallRandomDistortions	0.95	Images/Set1/Lena	Certainty	149.393	13.7334 dB	
+Test_LatestSmallRandomDistortions	1	Images/Set1/Lena	Certainty	149.072	13.5846 dB	
+Test_LatestSmallRandomDistortions	1.05	Images/Set1/Lena	Certainty	148.749	13.3774 dB	
+Test_LatestSmallRandomDistortions	1.1	Images/Set1/Lena	Certainty	148.427	13.2516 dB	
+Test_LatestSmallRandomDistortions	0.95	Images/Set1/Sample	Certainty	54.9272	6.54138 dB	
+Test_LatestSmallRandomDistortions	1	Images/Set1/Sample	Certainty	54.3907	6.53136 dB	
+Test_LatestSmallRandomDistortions	1.05	Images/Set1/Sample	Certainty	53.9464	6.51756 dB	
+Test_LatestSmallRandomDistortions	1.1	Images/Set1/Sample	Certainty	53.485	6.50657 dB	
+Test_LatestSmallRandomDistortions	0.95	Images/Set2/skyline_arch	Certainty	79.3873	9.72646 dB	
+Test_LatestSmallRandomDistortions	1	Images/Set2/skyline_arch	Certainty	77.8082	9.59487 dB	
+Test_LatestSmallRandomDistortions	1.05	Images/Set2/skyline_arch	Certainty	76.2057	9.43143 dB	
+Test_LatestSmallRandomDistortions	1.1	Images/Set2/skyline_arch	Certainty	74.6767	9.31053 dB	
+Test_LatestSmallRandomDistortions	0.95	Images/Set3/Sample	Certainty	13.5873	6.81267 dB	
+Test_LatestSmallRandomDistortions	1	Images/Set3/Sample	Certainty	12.9351	6.80423 dB	
+Test_LatestSmallRandomDistortions	1.05	Images/Set3/Sample	Certainty	12.3546	6.80897 dB	
+Test_LatestSmallRandomDistortions	1.1	Images/Set3/Sample	Certainty	11.7924	6.80311 dB	
+
+
+
+MarkBench - Bench Results  - Sat Nov 02 06.43.13 2019
+Number of tests which failed:0

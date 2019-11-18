@@ -1,0 +1,129 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "EmbedDLL"=".\embeddll\EmbedDLL.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/StirMark Benchmark/EmbedDLL", NHDAAAAA
+    .\embeddll
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "JPEGLib"="..\JPEGLib\JPEGLib.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/JPEGLib", OFAAAAAA
+    ..\jpeglib
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "LT"="..\Lapped_Transform\LT.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Lapped Transform", XCDAAAAA
+    ..\lapped_transform
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "SelfSimilarities"=".\SignalProcessing\SelfSimilarities\SelfSimilarities.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/StirMark Benchmark/SignalProcessing/SelfSimilarities", BRMAAAAA
+    .\SignalProcessing\SelfSimilarities
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "SelfSimilaritiesConsole"=".\SignalProcessing\SelfSimilarities\SelfSimilaritiesConsole.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/StirMark Benchmark/SignalProcessing/SelfSimilaritiesConsole", WRMAAAAA
+    .\signalprocessing\selfsimilarities
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "StirMark Benchmark"=".\StirMark Benchmark.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/StirMark Benchmark", VFDAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name EmbedDLL
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name JPEGLib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name LT
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SelfSimilarities
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+    begin source code control
+    "$/StirMark Benchmark", VFDAAAAA
+    .
+    end source code control
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

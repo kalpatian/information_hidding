@@ -1,0 +1,49 @@
+######################
+#  Base directories  #
+######################
+#StirmakBenchDir = $(PWD)
+StirmakBenchDir = /home/raynal/Source/StirmarkBench/StirMark_Bench
+#INCLUDEDIR = $(StirmakBenchDir)/include
+INCLUDEDIR = $(StirmakBenchDir)
+BINDIR     = $(StirmakBenchDir)/bin
+LIBDIR     = $(StirmakBenchDir)/lib
+OBJDIR     = $(StirmakBenchDir)/Objects
+
+##################
+#  Needed tools  #
+##################
+MAKE   = gmake
+CC     = g++
+C      = gcc
+AR     = ar
+RANLIB = ranlib
+
+#################
+#  Local tools  #
+#################
+#
+# Just define here the library you want to use
+#
+# Note :
+#   - The jpeg lib is slightly modified to include the bmp support
+#     The corresponding Makefie is included in our package.
+#   - liblt is a C library (use extern keyword in C++)
+#
+
+LIBJPEG = $(LIBDIR)/libjpeg.a
+LIBLT   = $(LIBDIR)/liblt.a    
+EFENCE  = efence
+
+############################
+#  Some compilation flags  #
+############################
+INC_PATH  = -I$(INCLUDEDIR) -I.
+LINK_PATH = -L$(LIBDIR)
+#LINK_LIB  = -l$(EFENCE)
+LINK_LIB  = 
+COMP_OPTS = $(INC_PATH) -g -fexceptions -D__UNIX__ -DSMB_CODE_TESTING -D_DEBUG  -Wall -pedantic
+LINK_OPTS = $(LINK_PATH) $(LINK_LIB)
+AR_OPTS   = rcs
+DYNL_OPTS = -shared
+DYNC_OPTS = -fPIC
+

@@ -1,0 +1,28 @@
+MarkBench - Bench Report - Sat Nov 02 13.52.16 2019
+
+MS name            : Blind linear correlation technique - V demo
+MS release date    : June 2000 - Last update: February 2002
+MS contact address : fabienpe@microsoft.com
+MS source location : http://www.cl.cam.ac.uk/~fapp2/watermarking/evaluation/
+MS family type     : 6
+MS max key size    : 32
+MS max msg size    : 0
+
+
+
+
+
+---------------------------------------------------
+Test_PSNR -- Sat Nov 02 13.52.16 2019
+---------------------------------------------------
+Test_PSNR	0	Images/Set1/Sample	Certainty:	57.1197	1.#INF dB	
+Test_PSNR	10	Images/Set1/Sample	Certainty:	59.591	39.5343 dB	
+Test_PSNR	20	Images/Set1/Sample	Certainty:	61.238	35.1195 dB	
+Test_PSNR	30	Images/Set1/Sample	Certainty:	63.7077	32.0289 dB	
+Test_PSNR	40	Images/Set1/Sample	Certainty:	65.3536	29.0791 dB	
+Test_PSNR	50	Images/Set1/Sample	Certainty:	67.822	27.402 dB	
+Test_PSNR	60	Images/Set1/Sample	Certainty:	69.4667	25.5722 dB	
+Test_PSNR	70	Images/Set1/Sample	Certainty:	71.9334	23.9908 dB	
+Test_PSNR	80	Images/Set1/Sample	Certainty:	73.5768	23.0662 dB	
+Test_PSNR	90	Images/Set1/Sample	Certainty:	76.041	21.8533 dB	
+Test_PSNR	100	Images/Set1/Sample	Certainty:	77.6828	21.1354 dB	

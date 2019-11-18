@@ -1,0 +1,850 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: JPEGLib - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD3.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /FR"Release/" /Fp"Release/JPEGLib.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\cdjpeg.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jcapimin.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jcapistd.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jccoefct.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jccolor.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jcdctmgr.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jchuff.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jcinit.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jcmainct.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jcmarker.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jcmaster.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jcomapi.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jcparam.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jcphuff.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jcprepct.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jcsample.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jctrans.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdapimin.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdapistd.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdatadst.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdatasrc.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdcoefct.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdcolor.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jddctmgr.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdhuff.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdinput.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdmainct.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdmarker.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdmaster.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdmerge.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdphuff.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdpostct.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdsample.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jdtrans.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jerror.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jfdctflt.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jfdctfst.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jfdctint.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jidctflt.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jidctfst.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jidctint.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jidctred.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jmemansi.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jmemmgr.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jquant1.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jquant2.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\jutils.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\rdbmp.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\rdcolmap.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\rdgif.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\rdppm.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\rdrle.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\rdswitch.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\rdtarga.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\transupp.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\wrbmp.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\wrgif.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\wrjpgcom.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\wrppm.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\wrrle.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\wrtarga.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD3.tmp" 
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD4.tmp" with contents
+[
+/nologo /out:"Release\JPEGLib.lib" 
+".\Release\cdjpeg.obj"
+".\Release\jcapimin.obj"
+".\Release\jcapistd.obj"
+".\Release\jccoefct.obj"
+".\Release\jccolor.obj"
+".\Release\jcdctmgr.obj"
+".\Release\jchuff.obj"
+".\Release\jcinit.obj"
+".\Release\jcmainct.obj"
+".\Release\jcmarker.obj"
+".\Release\jcmaster.obj"
+".\Release\jcomapi.obj"
+".\Release\jcparam.obj"
+".\Release\jcphuff.obj"
+".\Release\jcprepct.obj"
+".\Release\jcsample.obj"
+".\Release\jctrans.obj"
+".\Release\jdapimin.obj"
+".\Release\jdapistd.obj"
+".\Release\jdatadst.obj"
+".\Release\jdatasrc.obj"
+".\Release\jdcoefct.obj"
+".\Release\jdcolor.obj"
+".\Release\jddctmgr.obj"
+".\Release\jdhuff.obj"
+".\Release\jdinput.obj"
+".\Release\jdmainct.obj"
+".\Release\jdmarker.obj"
+".\Release\jdmaster.obj"
+".\Release\jdmerge.obj"
+".\Release\jdphuff.obj"
+".\Release\jdpostct.obj"
+".\Release\jdsample.obj"
+".\Release\jdtrans.obj"
+".\Release\jerror.obj"
+".\Release\jfdctflt.obj"
+".\Release\jfdctfst.obj"
+".\Release\jfdctint.obj"
+".\Release\jidctflt.obj"
+".\Release\jidctfst.obj"
+".\Release\jidctint.obj"
+".\Release\jidctred.obj"
+".\Release\jmemansi.obj"
+".\Release\jmemmgr.obj"
+".\Release\jquant1.obj"
+".\Release\jquant2.obj"
+".\Release\jutils.obj"
+".\Release\rdbmp.obj"
+".\Release\rdcolmap.obj"
+".\Release\rdgif.obj"
+".\Release\rdppm.obj"
+".\Release\rdrle.obj"
+".\Release\rdswitch.obj"
+".\Release\rdtarga.obj"
+".\Release\transupp.obj"
+".\Release\wrbmp.obj"
+".\Release\wrgif.obj"
+".\Release\wrjpgcom.obj"
+".\Release\wrppm.obj"
+".\Release\wrrle.obj"
+".\Release\wrtarga.obj"
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD4.tmp"
+<h3>Output Window</h3>
+Compiling...
+cdjpeg.c
+jcapimin.c
+jcapistd.c
+jccoefct.c
+jccolor.c
+jcdctmgr.c
+jchuff.c
+jcinit.c
+jcmainct.c
+jcmarker.c
+jcmaster.c
+jcomapi.c
+jcparam.c
+jcphuff.c
+jcprepct.c
+jcsample.c
+jctrans.c
+jdapimin.c
+jdapistd.c
+jdatadst.c
+jdatasrc.c
+jdcoefct.c
+jdcolor.c
+jddctmgr.c
+jdhuff.c
+jdinput.c
+jdmainct.c
+jdmarker.c
+jdmaster.c
+jdmerge.c
+jdphuff.c
+jdpostct.c
+jdsample.c
+jdtrans.c
+jerror.c
+jfdctflt.c
+jfdctfst.c
+jfdctint.c
+jidctflt.c
+jidctfst.c
+jidctint.c
+jidctred.c
+jmemansi.c
+jmemmgr.c
+jquant1.c
+jquant2.c
+jutils.c
+rdbmp.c
+rdcolmap.c
+rdgif.c
+rdppm.c
+rdrle.c
+rdswitch.c
+rdtarga.c
+transupp.c
+wrbmp.c
+wrgif.c
+wrjpgcom.c
+wrppm.c
+wrrle.c
+wrtarga.c
+Creating library...
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD5.tmp" with contents
+[
+/nologo /o"Release/JPEGLib.bsc" 
+".\Release\cdjpeg.sbr"
+".\Release\jcapimin.sbr"
+".\Release\jcapistd.sbr"
+".\Release\jccoefct.sbr"
+".\Release\jccolor.sbr"
+".\Release\jcdctmgr.sbr"
+".\Release\jchuff.sbr"
+".\Release\jcinit.sbr"
+".\Release\jcmainct.sbr"
+".\Release\jcmarker.sbr"
+".\Release\jcmaster.sbr"
+".\Release\jcomapi.sbr"
+".\Release\jcparam.sbr"
+".\Release\jcphuff.sbr"
+".\Release\jcprepct.sbr"
+".\Release\jcsample.sbr"
+".\Release\jctrans.sbr"
+".\Release\jdapimin.sbr"
+".\Release\jdapistd.sbr"
+".\Release\jdatadst.sbr"
+".\Release\jdatasrc.sbr"
+".\Release\jdcoefct.sbr"
+".\Release\jdcolor.sbr"
+".\Release\jddctmgr.sbr"
+".\Release\jdhuff.sbr"
+".\Release\jdinput.sbr"
+".\Release\jdmainct.sbr"
+".\Release\jdmarker.sbr"
+".\Release\jdmaster.sbr"
+".\Release\jdmerge.sbr"
+".\Release\jdphuff.sbr"
+".\Release\jdpostct.sbr"
+".\Release\jdsample.sbr"
+".\Release\jdtrans.sbr"
+".\Release\jerror.sbr"
+".\Release\jfdctflt.sbr"
+".\Release\jfdctfst.sbr"
+".\Release\jfdctint.sbr"
+".\Release\jidctflt.sbr"
+".\Release\jidctfst.sbr"
+".\Release\jidctint.sbr"
+".\Release\jidctred.sbr"
+".\Release\jmemansi.sbr"
+".\Release\jmemmgr.sbr"
+".\Release\jquant1.sbr"
+".\Release\jquant2.sbr"
+".\Release\jutils.sbr"
+".\Release\rdbmp.sbr"
+".\Release\rdcolmap.sbr"
+".\Release\rdgif.sbr"
+".\Release\rdppm.sbr"
+".\Release\rdrle.sbr"
+".\Release\rdswitch.sbr"
+".\Release\rdtarga.sbr"
+".\Release\transupp.sbr"
+".\Release\wrbmp.sbr"
+".\Release\wrgif.sbr"
+".\Release\wrjpgcom.sbr"
+".\Release\wrppm.sbr"
+".\Release\wrrle.sbr"
+".\Release\wrtarga.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD5.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+<h3>
+--------------------Configuration: LT - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD6.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_MBCS" /D "_LIB" /FR"Release/" /Fp"Release/LT.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCT.C"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV.C"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV2.C"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDHT.C"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FELT.C"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FELT2.C"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT.C"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT2.C"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\RSFFT.C"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\SRFFT.C"
+]
+Creating command line "cl.exe @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD6.tmp" 
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD7.tmp" with contents
+[
+/nologo /out:"Release\LT.lib" 
+".\Release\FDCT.OBJ"
+".\Release\FDCTIV.OBJ"
+".\Release\FDCTIV2.OBJ"
+".\Release\FDHT.OBJ"
+".\Release\FELT.OBJ"
+".\Release\FELT2.OBJ"
+".\Release\FLOT.OBJ"
+".\Release\FLOT2.OBJ"
+".\Release\RSFFT.OBJ"
+".\Release\SRFFT.OBJ"
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD7.tmp"
+<h3>Output Window</h3>
+Compiling...
+FDCT.C
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCT.C(91) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCT.C(119) : warning C4244: 'function' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCT.C(228) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCT.C(229) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCT.C(264) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+FDCTIV.C
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV.C(68) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV.C(69) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV.C(96) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV.C(98) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV.C(99) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV.C(99) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV.C(102) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV.C(105) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV.C(106) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV.C(106) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+FDCTIV2.C
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV2.C(85) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV2.C(86) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV2.C(118) : warning C4244: '*=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV2.C(120) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV2.C(121) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV2.C(121) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV2.C(124) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV2.C(127) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV2.C(128) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDCTIV2.C(128) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+FDHT.C
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDHT.C(156) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDHT.C(157) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDHT.C(157) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDHT.C(159) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDHT.C(160) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDHT.C(160) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDHT.C(193) : warning C4305: '*=' : truncation from 'const double ' to 'float '
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDHT.C(194) : warning C4305: '*=' : truncation from 'const double ' to 'float '
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FDHT.C(245) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+FELT.C
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FELT.C(151) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FELT.C(164) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FELT.C(165) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FELT.C(165) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+FELT2.C
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FELT2.C(100) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FELT2.C(113) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FELT2.C(114) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FELT2.C(114) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+FLOT.C
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT.C(98) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT.C(99) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT.C(132) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT.C(191) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT.C(216) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT.C(217) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+FLOT2.C
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT2.C(85) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT2.C(86) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT2.C(119) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT2.C(168) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT2.C(193) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\FLOT2.C(194) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+RSFFT.C
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\RSFFT.C(78) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\RSFFT.C(79) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\RSFFT.C(79) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\RSFFT.C(147) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\RSFFT.C(148) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\RSFFT.C(227) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\RSFFT.C(228) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\RSFFT.C(282) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\RSFFT.C(283) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\RSFFT.C(331) : warning C4244: '=' : conversion from 'double ' to 'float ', possible loss of data
+SRFFT.C
+Creating library...
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD8.tmp" with contents
+[
+/nologo /o"Release/LT.bsc" 
+".\Release\FDCT.SBR"
+".\Release\FDCTIV.SBR"
+".\Release\FDCTIV2.SBR"
+".\Release\FDHT.SBR"
+".\Release\FELT.SBR"
+".\Release\FELT2.SBR"
+".\Release\FLOT.SBR"
+".\Release\FLOT2.SBR"
+".\Release\RSFFT.SBR"
+".\Release\SRFFT.SBR"]
+Creating command line "bscmake.exe @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD8.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+<h3>
+--------------------Configuration: SelfSimilarities - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD9.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_MBCS" /D "_LIB" /FR"Release/" /Fp"Release/SelfSimilarities.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SelfSimilarities\attack.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SelfSimilarities\defines.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SelfSimilarities\lblocktoolkit.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SelfSimilarities\lcollage_search.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SelfSimilarities\lcolor.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SelfSimilarities\lgeom.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SelfSimilarities\limgtoolkit.c"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SelfSimilarities\lwavelet.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPD9.tmp" 
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPDA.tmp" with contents
+[
+/nologo /out:"Release\SelfSimilarities.lib" 
+".\Release\attack.obj"
+".\Release\defines.obj"
+".\Release\lblocktoolkit.obj"
+".\Release\lcollage_search.obj"
+".\Release\lcolor.obj"
+".\Release\lgeom.obj"
+".\Release\limgtoolkit.obj"
+".\Release\lwavelet.obj"
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPDA.tmp"
+<h3>Output Window</h3>
+Compiling...
+attack.c
+defines.c
+lblocktoolkit.c
+lcollage_search.c
+lcolor.c
+lgeom.c
+limgtoolkit.c
+lwavelet.c
+Creating library...
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPDB.tmp" with contents
+[
+/nologo /o"Release/SelfSimilarities.bsc" 
+".\Release\attack.sbr"
+".\Release\defines.sbr"
+".\Release\lblocktoolkit.sbr"
+".\Release\lcollage_search.sbr"
+".\Release\lcolor.sbr"
+".\Release\lgeom.sbr"
+".\Release\limgtoolkit.sbr"
+".\Release\lwavelet.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPDB.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+<h3>
+--------------------Configuration: StirMark Benchmark - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x809 /fo"Release/StirMarkBenchmark.res" /i "Base" /d "NDEBUG" "C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\StirMarkBenchmark.rc"" 
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPDC.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Release/" /Fp"Release/StirMark Benchmark.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBBench.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBError.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBException.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBFileException.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBImageList.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBLog.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBMarkingScheme.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBMemoryException.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBQuality.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBRandomNumberGenerator.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBString.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBTools.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\StirMarkBenchmark.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_AddNoise.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_Affine.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_ConvFilter.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_Cropping.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_EmbedTime.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_JPEG.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_MedianCut.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_PSNR.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_RemoveLines.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_Rescale.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_Rotation.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_RotationCrop.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_RotationScale.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_SelfSimilarities.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_SmallRandomDistortions.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTestGT.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTestList.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTestSP.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTestST.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTestTR.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SMBImageProcessing.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SMBSP_AddDitherNoise.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SMBSP_AddNoise.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SMBSP_ConvFilter.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SMBSP_MedianCut.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SignalProcessing\SMBSP_SelfSimilarities.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\GeometricTransforms\SMBDistortionMap.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\GeometricTransforms\SMBGT_Affine.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\GeometricTransforms\SMBGT_Rescale.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\GeometricTransforms\SMBGT_Rotation.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\GeometricTransforms\SMBGT_SmallRandomDistortions.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\GeometricTransforms\SMBRecInterpolatingQuadratic.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\GeometricTransforms\SMBRecLinearInterpolation.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\GeometricTransforms\SMBRecNearestNeighbour.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\GeometricTransforms\SMBReconstructor.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\GeometricTransforms\SMBResampler.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\GeometricTransforms\SMBSamPoint.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Tests\SMBTest_LatestSmallRandomDistortions.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\GeometricTransforms\SMBTransformer.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SpecialTransforms\SMBST_AFlip.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SpecialTransforms\SMBST_Cropping.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SpecialTransforms\SMBST_DFlip.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SpecialTransforms\SMBST_HFlip.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SpecialTransforms\SMBST_Identity.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SpecialTransforms\SMBST_RemoveLines.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SpecialTransforms\SMBST_Rot180.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SpecialTransforms\SMBST_Rot270.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SpecialTransforms\SMBST_Rot90.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SpecialTransforms\SMBST_Transposition.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\SpecialTransforms\SMBST_VFlip.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPDC.tmp" 
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPDD.tmp" with contents
+[
+/nologo /ML /W4 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Release/" /Fp"Release/StirMark Benchmark.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBImage.cpp"
+"C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBMatrix.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPDD.tmp" 
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPDE.tmp" with contents
+[
+/nologo /subsystem:console /incremental:no /pdb:"Release/StirMark Benchmark.pdb" /machine:I386 /out:"Release/StirMark Benchmark.exe" 
+".\Release\SMBBench.obj"
+".\Release\SMBError.obj"
+".\Release\SMBException.obj"
+".\Release\SMBFileException.obj"
+".\Release\SMBImage.obj"
+".\Release\SMBImageList.obj"
+".\Release\SMBLog.obj"
+".\Release\SMBMarkingScheme.obj"
+".\Release\SMBMatrix.obj"
+".\Release\SMBMemoryException.obj"
+".\Release\SMBQuality.obj"
+".\Release\SMBRandomNumberGenerator.obj"
+".\Release\SMBString.obj"
+".\Release\SMBTools.obj"
+".\Release\StirMarkBenchmark.obj"
+".\Release\SMBTest.obj"
+".\Release\SMBTest_AddNoise.obj"
+".\Release\SMBTest_Affine.obj"
+".\Release\SMBTest_ConvFilter.obj"
+".\Release\SMBTest_Cropping.obj"
+".\Release\SMBTest_EmbedTime.obj"
+".\Release\SMBTest_JPEG.obj"
+".\Release\SMBTest_MedianCut.obj"
+".\Release\SMBTest_PSNR.obj"
+".\Release\SMBTest_RemoveLines.obj"
+".\Release\SMBTest_Rescale.obj"
+".\Release\SMBTest_Rotation.obj"
+".\Release\SMBTest_RotationCrop.obj"
+".\Release\SMBTest_RotationScale.obj"
+".\Release\SMBTest_SelfSimilarities.obj"
+".\Release\SMBTest_SmallRandomDistortions.obj"
+".\Release\SMBTestGT.obj"
+".\Release\SMBTestList.obj"
+".\Release\SMBTestSP.obj"
+".\Release\SMBTestST.obj"
+".\Release\SMBTestTR.obj"
+".\Release\SMBImageProcessing.obj"
+".\Release\SMBSP_AddDitherNoise.obj"
+".\Release\SMBSP_AddNoise.obj"
+".\Release\SMBSP_ConvFilter.obj"
+".\Release\SMBSP_MedianCut.obj"
+".\Release\SMBSP_SelfSimilarities.obj"
+".\Release\SMBDistortionMap.obj"
+".\Release\SMBGT_Affine.obj"
+".\Release\SMBGT_Rescale.obj"
+".\Release\SMBGT_Rotation.obj"
+".\Release\SMBGT_SmallRandomDistortions.obj"
+".\Release\SMBRecInterpolatingQuadratic.obj"
+".\Release\SMBRecLinearInterpolation.obj"
+".\Release\SMBRecNearestNeighbour.obj"
+".\Release\SMBReconstructor.obj"
+".\Release\SMBResampler.obj"
+".\Release\SMBSamPoint.obj"
+".\Release\SMBTest_LatestSmallRandomDistortions.obj"
+".\Release\SMBTransformer.obj"
+".\Release\SMBST_AFlip.obj"
+".\Release\SMBST_Cropping.obj"
+".\Release\SMBST_DFlip.obj"
+".\Release\SMBST_HFlip.obj"
+".\Release\SMBST_Identity.obj"
+".\Release\SMBST_RemoveLines.obj"
+".\Release\SMBST_Rot180.obj"
+".\Release\SMBST_Rot270.obj"
+".\Release\SMBST_Rot90.obj"
+".\Release\SMBST_Transposition.obj"
+".\Release\SMBST_VFlip.obj"
+".\Release\StirMarkBenchmark.res"
+"\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\JPEGLib\Release\JPEGLib.lib"
+"\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\Lapped_Transform\Release\LT.lib"
+".\SignalProcessing\SelfSimilarities\Release\SelfSimilarities.lib"
+".\embeddll\Release\EmbedDLL.lib"
+]
+Creating command line "link.exe @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPDE.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+SMBBench.cpp
+SMBError.cpp
+SMBException.cpp
+SMBFileException.cpp
+SMBImageList.cpp
+SMBLog.cpp
+SMBMarkingScheme.cpp
+SMBMemoryException.cpp
+SMBQuality.cpp
+SMBRandomNumberGenerator.cpp
+SMBString.cpp
+SMBTools.cpp
+StirMarkBenchmark.cpp
+SMBTest.cpp
+SMBTest_AddNoise.cpp
+SMBTest_Affine.cpp
+SMBTest_ConvFilter.cpp
+SMBTest_Cropping.cpp
+SMBTest_EmbedTime.cpp
+SMBTest_JPEG.cpp
+SMBTest_MedianCut.cpp
+SMBTest_PSNR.cpp
+SMBTest_RemoveLines.cpp
+SMBTest_Rescale.cpp
+SMBTest_Rotation.cpp
+SMBTest_RotationCrop.cpp
+SMBTest_RotationScale.cpp
+SMBTest_SelfSimilarities.cpp
+SMBTest_SmallRandomDistortions.cpp
+SMBTestGT.cpp
+SMBTestList.cpp
+SMBTestSP.cpp
+SMBTestST.cpp
+SMBTestTR.cpp
+SMBImageProcessing.cpp
+SMBSP_AddDitherNoise.cpp
+SMBSP_AddNoise.cpp
+SMBSP_ConvFilter.cpp
+SMBSP_MedianCut.cpp
+SMBSP_SelfSimilarities.cpp
+SMBDistortionMap.cpp
+SMBGT_Affine.cpp
+SMBGT_Rescale.cpp
+SMBGT_Rotation.cpp
+SMBGT_SmallRandomDistortions.cpp
+SMBRecInterpolatingQuadratic.cpp
+SMBRecLinearInterpolation.cpp
+SMBRecNearestNeighbour.cpp
+SMBReconstructor.cpp
+SMBResampler.cpp
+SMBSamPoint.cpp
+SMBTest_LatestSmallRandomDistortions.cpp
+SMBTransformer.cpp
+SMBST_AFlip.cpp
+SMBST_Cropping.cpp
+SMBST_DFlip.cpp
+SMBST_HFlip.cpp
+SMBST_Identity.cpp
+SMBST_RemoveLines.cpp
+SMBST_Rot180.cpp
+SMBST_Rot270.cpp
+SMBST_Rot90.cpp
+SMBST_Transposition.cpp
+SMBST_VFlip.cpp
+Compiling...
+SMBImage.cpp
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(296) : warning C4663: C++ language change: to explicitly specialize class template 'codecvt' use the following syntax:
+        template<> class codecvt<unsigned short,char,int> ...
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(387) : warning C4018: '<' : signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(519) : warning C4663: C++ language change: to explicitly specialize class template 'ctype' use the following syntax:
+        template<> class ctype<char> ...
+C:\Local documents\CVS Root\StirMarkBenchmark4.0.129\Source\StirMark_Bench\Base\SMBImage.cpp(817) : warning C4611: interaction between '_setjmp' and C++ object destruction is non-portable
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\fstream(71) : warning C4097: typedef-name '_Mysb' used as synonym for class-name 'basic_streambuf<char,struct std::char_traits<char> >'
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\fstream(71) : while compiling class-template member function '__thiscall std::basic_filebuf<char,struct std::char_traits<char> >::std::basic_filebuf<char,struct std::char_traits<char> >(struct _iobuf *)'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(469) : warning C4018: '<=' : signed/unsigned mismatch
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(460) : while compiling class-template member function 'class std::ostreambuf_iterator<char,struct std::char_traits<char> > __thiscall std::num_put<char,class std::ostreambuf_iterator<char,struct std::char_traits<char> > >::do_put(class std::ostreambuf_iterator<char,struct std::char_traits<char> >,class std::ios_base &,char,bool) const'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(179) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(168) : while compiling class-template member function 'class std::istreambuf_iterator<char,struct std::char_traits<char> > __thiscall std::num_get<char,class std::istreambuf_iterator<char,struct std::char_traits<char> > >::do_get(class std::istreambuf_iterator<char,struct std::char_traits<char> >,class std::istreambuf_iterator<char,struct std::char_traits<char> >,class std::ios_base &,int &,unsigned short &) const'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(194) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(183) : while compiling class-template member function 'class std::istreambuf_iterator<char,struct std::char_traits<char> > __thiscall std::num_get<char,class std::istreambuf_iterator<char,struct std::char_traits<char> > >::do_get(class std::istreambuf_iterator<char,struct std::char_traits<char> >,class std::istreambuf_iterator<char,struct std::char_traits<char> >,class std::ios_base &,int &,unsigned int &) const'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(289) : warning C4018: '<' : signed/unsigned mismatch
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(289) : while compiling class-template member function 'int __thiscall std::codecvt<char,char,int>::do_length(int &,const char *,const char *,unsigned int) const'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\fstream(219) : warning C4097: typedef-name '_Mysb' used as synonym for class-name 'basic_filebuf<char,struct std::char_traits<char> >::basic_streambuf<char,struct std::char_traits<char> >'
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\fstream(213) : while compiling class-template member function 'void __thiscall std::basic_filebuf<char,struct std::char_traits<char> >::_Init(struct _iobuf *,enum std::basic_filebuf<char,struct std::char_traits<char> >::_Initfl)'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\fstream(220) : warning C4127: conditional expression is constant
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\fstream(213) : while compiling class-template member function 'void __thiscall std::basic_filebuf<char,struct std::char_traits<char> >::_Init(struct _iobuf *,enum std::basic_filebuf<char,struct std::char_traits<char> >::_Initfl)'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\fstream(221) : warning C4097: typedef-name '_Mysb' used as synonym for class-name 'basic_filebuf<char,struct std::char_traits<char> >::basic_streambuf<char,struct std::char_traits<char> >'
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\fstream(213) : while compiling class-template member function 'void __thiscall std::basic_filebuf<char,struct std::char_traits<char> >::_Init(struct _iobuf *,enum std::basic_filebuf<char,struct std::char_traits<char> >::_Initfl)'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(543) : warning C4018: '<=' : signed/unsigned mismatch
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(542) : while compiling class-template member function 'class std::ostreambuf_iterator<char,struct std::char_traits<char> > __cdecl std::num_put<char,class std::ostreambuf_iterator<char,struct std::char_traits<char> > >::_Fput(class std::ostreambuf_iterator<char,struct std::char_traits<char> >,class std::ios_base &,char,const char *,unsigned int,unsigned int)'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(599) : warning C4018: '<' : signed/unsigned mismatch
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(588) : while compiling class-template member function 'class std::ostreambuf_iterator<char,struct std::char_traits<char> > __cdecl std::num_put<char,class std::ostreambuf_iterator<char,struct std::char_traits<char> > >::_Iput(class std::ostreambuf_iterator<char,struct std::char_traits<char> >,class std::ios_base &,char,char *,unsigned int)'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(606) : warning C4018: '<=' : signed/unsigned mismatch
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(588) : while compiling class-template member function 'class std::ostreambuf_iterator<char,struct std::char_traits<char> > __cdecl std::num_put<char,class std::ostreambuf_iterator<char,struct std::char_traits<char> > >::_Iput(class std::ostreambuf_iterator<char,struct std::char_traits<char> >,class std::ios_base &,char,char *,unsigned int)'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xstring(600) : warning C4245: 'initializing' : conversion from 'const int' to 'const unsigned int', signed/unsigned mismatch
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xstring(79) : while compiling class-template static data member 'const unsigned int std::basic_string<char,std::char_traits<char>,std::allocator<char> >::npos'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(204) : warning C4244: '=' : conversion from 'unsigned int' to 'char', possible loss of data
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(151) : see reference to function template instantiation 'int __cdecl std::_Getloctxt(class std::istreambuf_iterator<char,struct std::char_traits<char> > &,class std::istreambuf_iterator<char,struct std::char_traits<char> > &,unsigned int,const char *)' being compiled
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(207) : warning C4244: '=' : conversion from 'unsigned int' to 'char', possible loss of data
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocnum(151) : see reference to function template instantiation 'int __cdecl std::_Getloctxt(class std::istreambuf_iterator<char,struct std::char_traits<char> > &,class std::istreambuf_iterator<char,struct std::char_traits<char> > &,unsigned int,const char *)' being compiled
+SMBMatrix.cpp
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\istream(226) : warning C4701: local variable '_C' may be used without having been initialized
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\istream(370) : warning C4701: local variable '_C' may be used without having been initialized
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\fstream(115) : warning C4702: unreachable code
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\fstream(163) : warning C4701: local variable '_C' may be used without having been initialized
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xmemory(39) : warning C4100: '_P' : unreferenced formal parameter
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xmemory(41) : warning C4100: '_P' : unreferenced formal parameter
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(242) : warning C4511: 'codecvt_base' : copy constructor could not be generated
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(223) : see declaration of 'codecvt_base'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(242) : warning C4512: 'codecvt_base' : assignment operator could not be generated
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(223) : see declaration of 'codecvt_base'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(296) : warning C4663: C++ language change: to explicitly specialize class template 'codecvt' use the following syntax:
+        template<> class codecvt<unsigned short,char,int> ...
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(398) : warning C4511: 'codecvt<unsigned short,char,int>' : copy constructor could not be generated
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(296) : see declaration of 'codecvt<unsigned short,char,int>'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(398) : warning C4512: 'codecvt<unsigned short,char,int>' : assignment operator could not be generated
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(296) : see declaration of 'codecvt<unsigned short,char,int>'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(387) : warning C4018: '<' : signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(420) : warning C4511: 'ctype_base' : copy constructor could not be generated
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(410) : see declaration of 'ctype_base'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(420) : warning C4512: 'ctype_base' : assignment operator could not be generated
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(410) : see declaration of 'ctype_base'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(519) : warning C4663: C++ language change: to explicitly specialize class template 'ctype' use the following syntax:
+        template<> class ctype<char> ...
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(611) : warning C4511: 'ctype<char>' : copy constructor could not be generated
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(519) : see declaration of 'ctype<char>'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(611) : warning C4512: 'ctype<char>' : assignment operator could not be generated
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(519) : see declaration of 'ctype<char>'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(552) : warning C4100: '_D' : unreferenced formal parameter
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(554) : warning C4100: '_D' : unreferenced formal parameter
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\ostream(50) : warning C4512: 'sentry' : assignment operator could not be generated
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\ostream(38) : see declaration of 'sentry'
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\ostream(373) : see reference to class template instantiation 'std::basic_ostream<char,struct std::char_traits<char> >' being compiled
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\ostream(50) : warning C4512: 'sentry' : assignment operator could not be generated
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\ostream(38) : see declaration of 'sentry'
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\ostream(379) : see reference to class template instantiation 'std::basic_ostream<unsigned short,struct std::char_traits<unsigned short> >' being compiled
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(513) : warning C4511: 'ctype<unsigned short>' : copy constructor could not be generated
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\istream(573) : see reference to class template instantiation 'std::ctype<unsigned short>' being compiled
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xlocale(513) : warning C4512: 'ctype<unsigned short>' : assignment operator could not be generated
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\istream(573) : see reference to class template instantiation 'std::ctype<unsigned short>' being compiled
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\streambuf(181) : warning C4100: '_Loc' : unreferenced formal parameter
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\streambuf(182) : while compiling class-template member function 'void __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::imbue(const class std::locale &)'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\streambuf(181) : warning C4100: '_Loc' : unreferenced formal parameter
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\streambuf(182) : while compiling class-template member function 'void __thiscall std::basic_streambuf<unsigned short,struct std::char_traits<unsigned short> >::imbue(const class std::locale &)'
+C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xstring(600) : warning C4245: 'initializing' : conversion from 'const int' to 'const unsigned int', signed/unsigned mismatch
+        C:\Program Files\Microsoft Visual Studio\VC98\INCLUDE\xmemory(59) : while compiling class-template static data member 'const unsigned int std::basic_string<char,std::char_traits<char>,std::allocator<char> >::npos'
+Linking...
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPE0.tmp" with contents
+[
+/nologo /o"Release/StirMark Benchmark.bsc" 
+".\Release\SMBBench.sbr"
+".\Release\SMBError.sbr"
+".\Release\SMBException.sbr"
+".\Release\SMBFileException.sbr"
+".\Release\SMBImage.sbr"
+".\Release\SMBImageList.sbr"
+".\Release\SMBLog.sbr"
+".\Release\SMBMarkingScheme.sbr"
+".\Release\SMBMatrix.sbr"
+".\Release\SMBMemoryException.sbr"
+".\Release\SMBQuality.sbr"
+".\Release\SMBRandomNumberGenerator.sbr"
+".\Release\SMBString.sbr"
+".\Release\SMBTools.sbr"
+".\Release\StirMarkBenchmark.sbr"
+".\Release\SMBTest.sbr"
+".\Release\SMBTest_AddNoise.sbr"
+".\Release\SMBTest_Affine.sbr"
+".\Release\SMBTest_ConvFilter.sbr"
+".\Release\SMBTest_Cropping.sbr"
+".\Release\SMBTest_EmbedTime.sbr"
+".\Release\SMBTest_JPEG.sbr"
+".\Release\SMBTest_MedianCut.sbr"
+".\Release\SMBTest_PSNR.sbr"
+".\Release\SMBTest_RemoveLines.sbr"
+".\Release\SMBTest_Rescale.sbr"
+".\Release\SMBTest_Rotation.sbr"
+".\Release\SMBTest_RotationCrop.sbr"
+".\Release\SMBTest_RotationScale.sbr"
+".\Release\SMBTest_SelfSimilarities.sbr"
+".\Release\SMBTest_SmallRandomDistortions.sbr"
+".\Release\SMBTestGT.sbr"
+".\Release\SMBTestList.sbr"
+".\Release\SMBTestSP.sbr"
+".\Release\SMBTestST.sbr"
+".\Release\SMBTestTR.sbr"
+".\Release\SMBImageProcessing.sbr"
+".\Release\SMBSP_AddDitherNoise.sbr"
+".\Release\SMBSP_AddNoise.sbr"
+".\Release\SMBSP_ConvFilter.sbr"
+".\Release\SMBSP_MedianCut.sbr"
+".\Release\SMBSP_SelfSimilarities.sbr"
+".\Release\SMBDistortionMap.sbr"
+".\Release\SMBGT_Affine.sbr"
+".\Release\SMBGT_Rescale.sbr"
+".\Release\SMBGT_Rotation.sbr"
+".\Release\SMBGT_SmallRandomDistortions.sbr"
+".\Release\SMBRecInterpolatingQuadratic.sbr"
+".\Release\SMBRecLinearInterpolation.sbr"
+".\Release\SMBRecNearestNeighbour.sbr"
+".\Release\SMBReconstructor.sbr"
+".\Release\SMBResampler.sbr"
+".\Release\SMBSamPoint.sbr"
+".\Release\SMBTest_LatestSmallRandomDistortions.sbr"
+".\Release\SMBTransformer.sbr"
+".\Release\SMBST_AFlip.sbr"
+".\Release\SMBST_Cropping.sbr"
+".\Release\SMBST_DFlip.sbr"
+".\Release\SMBST_HFlip.sbr"
+".\Release\SMBST_Identity.sbr"
+".\Release\SMBST_RemoveLines.sbr"
+".\Release\SMBST_Rot180.sbr"
+".\Release\SMBST_Rot270.sbr"
+".\Release\SMBST_Rot90.sbr"
+".\Release\SMBST_Transposition.sbr"
+".\Release\SMBST_VFlip.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPE0.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPE1.bat" with contents
+[
+@echo off
+copy "release\StirMark Benchmark.exe" "..\..\Bin\Benchmark\StirMark Benchmark.exe"
+copy "Profiles\SMBSettings.ini" "..\..\Profiles\SMBSettings.ini"
+]
+Creating command line "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSPE1.bat"
+
+        1 file(s) copied.
+        1 file(s) copied.
+
+
+
+<h3>Results</h3>
+StirMark Benchmark.exe - 0 error(s), 108 warning(s)
+</pre>
+</body>
+</html>

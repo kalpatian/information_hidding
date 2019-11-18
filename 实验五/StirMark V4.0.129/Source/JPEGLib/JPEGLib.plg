@@ -1,0 +1,275 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: JPEGLib - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSP20.tmp" with contents
+[
+/nologo /MLd /Ze /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /FR"Debug/" /Fp"Debug/JPEGLib.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c 
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\cdjpeg.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jcapimin.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jcapistd.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jccoefct.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jccolor.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jcdctmgr.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jchuff.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jcinit.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jcmainct.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jcmarker.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jcmaster.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jcomapi.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jcparam.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jcphuff.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jcprepct.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jcsample.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jctrans.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdapimin.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdapistd.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdatadst.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdatasrc.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdcoefct.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdcolor.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jddctmgr.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdhuff.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdinput.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdmainct.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdmarker.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdmaster.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdmerge.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdphuff.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdpostct.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdsample.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jdtrans.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jerror.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jfdctflt.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jfdctfst.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jfdctint.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jidctflt.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jidctfst.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jidctint.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jidctred.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jmemansi.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jmemmgr.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jquant1.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jquant2.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\jutils.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\rdbmp.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\rdcolmap.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\rdgif.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\rdppm.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\rdrle.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\rdswitch.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\rdtarga.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\transupp.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\wrbmp.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\wrgif.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\wrppm.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\wrrle.c"
+"C:\Local documents\CVS Root\StirmarkBench\JPEGLib\wrtarga.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSP20.tmp" 
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSP21.tmp" with contents
+[
+/nologo /out:"Debug\JPEGLib.lib" 
+".\Debug\cdjpeg.obj"
+".\Debug\jcapimin.obj"
+".\Debug\jcapistd.obj"
+".\Debug\jccoefct.obj"
+".\Debug\jccolor.obj"
+".\Debug\jcdctmgr.obj"
+".\Debug\jchuff.obj"
+".\Debug\jcinit.obj"
+".\Debug\jcmainct.obj"
+".\Debug\jcmarker.obj"
+".\Debug\jcmaster.obj"
+".\Debug\jcomapi.obj"
+".\Debug\jcparam.obj"
+".\Debug\jcphuff.obj"
+".\Debug\jcprepct.obj"
+".\Debug\jcsample.obj"
+".\Debug\jctrans.obj"
+".\Debug\jdapimin.obj"
+".\Debug\jdapistd.obj"
+".\Debug\jdatadst.obj"
+".\Debug\jdatasrc.obj"
+".\Debug\jdcoefct.obj"
+".\Debug\jdcolor.obj"
+".\Debug\jddctmgr.obj"
+".\Debug\jdhuff.obj"
+".\Debug\jdinput.obj"
+".\Debug\jdmainct.obj"
+".\Debug\jdmarker.obj"
+".\Debug\jdmaster.obj"
+".\Debug\jdmerge.obj"
+".\Debug\jdphuff.obj"
+".\Debug\jdpostct.obj"
+".\Debug\jdsample.obj"
+".\Debug\jdtrans.obj"
+".\Debug\jerror.obj"
+".\Debug\jfdctflt.obj"
+".\Debug\jfdctfst.obj"
+".\Debug\jfdctint.obj"
+".\Debug\jidctflt.obj"
+".\Debug\jidctfst.obj"
+".\Debug\jidctint.obj"
+".\Debug\jidctred.obj"
+".\Debug\jmemansi.obj"
+".\Debug\jmemmgr.obj"
+".\Debug\jquant1.obj"
+".\Debug\jquant2.obj"
+".\Debug\jutils.obj"
+".\Debug\rdbmp.obj"
+".\Debug\rdcolmap.obj"
+".\Debug\rdgif.obj"
+".\Debug\rdppm.obj"
+".\Debug\rdrle.obj"
+".\Debug\rdswitch.obj"
+".\Debug\rdtarga.obj"
+".\Debug\transupp.obj"
+".\Debug\wrbmp.obj"
+".\Debug\wrgif.obj"
+".\Debug\wrppm.obj"
+".\Debug\wrrle.obj"
+".\Debug\wrtarga.obj"
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSP21.tmp"
+<h3>Output Window</h3>
+Compiling...
+cdjpeg.c
+jcapimin.c
+jcapistd.c
+jccoefct.c
+jccolor.c
+jcdctmgr.c
+jchuff.c
+jcinit.c
+jcmainct.c
+jcmarker.c
+jcmaster.c
+jcomapi.c
+jcparam.c
+jcphuff.c
+jcprepct.c
+jcsample.c
+jctrans.c
+jdapimin.c
+jdapistd.c
+jdatadst.c
+jdatasrc.c
+jdcoefct.c
+jdcolor.c
+jddctmgr.c
+jdhuff.c
+jdinput.c
+jdmainct.c
+jdmarker.c
+jdmaster.c
+jdmerge.c
+jdphuff.c
+jdpostct.c
+jdsample.c
+jdtrans.c
+jerror.c
+jfdctflt.c
+jfdctfst.c
+jfdctint.c
+jidctflt.c
+jidctfst.c
+jidctint.c
+jidctred.c
+jmemansi.c
+jmemmgr.c
+jquant1.c
+jquant2.c
+jutils.c
+rdbmp.c
+rdcolmap.c
+rdgif.c
+rdppm.c
+rdrle.c
+rdswitch.c
+rdtarga.c
+transupp.c
+wrbmp.c
+wrgif.c
+wrppm.c
+wrrle.c
+wrtarga.c
+Creating library...
+Creating temporary file "C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSP22.tmp" with contents
+[
+/nologo /o"Debug/JPEGLib.bsc" 
+".\Debug\cdjpeg.sbr"
+".\Debug\jcapimin.sbr"
+".\Debug\jcapistd.sbr"
+".\Debug\jccoefct.sbr"
+".\Debug\jccolor.sbr"
+".\Debug\jcdctmgr.sbr"
+".\Debug\jchuff.sbr"
+".\Debug\jcinit.sbr"
+".\Debug\jcmainct.sbr"
+".\Debug\jcmarker.sbr"
+".\Debug\jcmaster.sbr"
+".\Debug\jcomapi.sbr"
+".\Debug\jcparam.sbr"
+".\Debug\jcphuff.sbr"
+".\Debug\jcprepct.sbr"
+".\Debug\jcsample.sbr"
+".\Debug\jctrans.sbr"
+".\Debug\jdapimin.sbr"
+".\Debug\jdapistd.sbr"
+".\Debug\jdatadst.sbr"
+".\Debug\jdatasrc.sbr"
+".\Debug\jdcoefct.sbr"
+".\Debug\jdcolor.sbr"
+".\Debug\jddctmgr.sbr"
+".\Debug\jdhuff.sbr"
+".\Debug\jdinput.sbr"
+".\Debug\jdmainct.sbr"
+".\Debug\jdmarker.sbr"
+".\Debug\jdmaster.sbr"
+".\Debug\jdmerge.sbr"
+".\Debug\jdphuff.sbr"
+".\Debug\jdpostct.sbr"
+".\Debug\jdsample.sbr"
+".\Debug\jdtrans.sbr"
+".\Debug\jerror.sbr"
+".\Debug\jfdctflt.sbr"
+".\Debug\jfdctfst.sbr"
+".\Debug\jfdctint.sbr"
+".\Debug\jidctflt.sbr"
+".\Debug\jidctfst.sbr"
+".\Debug\jidctint.sbr"
+".\Debug\jidctred.sbr"
+".\Debug\jmemansi.sbr"
+".\Debug\jmemmgr.sbr"
+".\Debug\jquant1.sbr"
+".\Debug\jquant2.sbr"
+".\Debug\jutils.sbr"
+".\Debug\rdbmp.sbr"
+".\Debug\rdcolmap.sbr"
+".\Debug\rdgif.sbr"
+".\Debug\rdppm.sbr"
+".\Debug\rdrle.sbr"
+".\Debug\rdswitch.sbr"
+".\Debug\rdtarga.sbr"
+".\Debug\transupp.sbr"
+".\Debug\wrbmp.sbr"
+".\Debug\wrgif.sbr"
+".\Debug\wrppm.sbr"
+".\Debug\wrrle.sbr"
+".\Debug\wrtarga.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\fabienpe\LOCALS~1\Temp\RSP22.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+JPEGLib.lib - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
